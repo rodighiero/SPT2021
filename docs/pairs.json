@@ -3,157 +3,132 @@
         2.4221582412719727,
         7.570692539215088,
         [
-            "research",
-            "study",
+            "form",
             "student",
-            "paper",
-            "question",
-            "work",
-            "ethic",
-            "body",
-            "curricula",
             "fact",
-            "course",
+            "question",
+            "curricula",
+            "body",
+            "study",
             "response",
+            "ethic",
+            "research",
             "engineering",
-            "form"
+            "paper",
+            "work",
+            "course"
         ]
     ],
     [
         2.308854103088379,
         7.570692539215088,
         [
-            "educator",
             "student",
-            "paper",
-            "world",
+            "program",
             "technology",
-            "learning",
-            "approach",
             "practice",
+            "world",
+            "educator",
+            "learning",
             "engineering",
-            "program"
+            "paper",
+            "approach"
         ]
     ],
     [
         2.4221582412719727,
         7.570692539215088,
         [
-            "research",
-            "study",
+            "form",
             "student",
-            "paper",
-            "question",
-            "work",
-            "ethic",
-            "body",
-            "curricula",
             "fact",
-            "course",
+            "question",
+            "curricula",
+            "body",
+            "study",
             "response",
+            "ethic",
+            "research",
             "engineering",
-            "form"
+            "paper",
+            "work",
+            "course"
         ]
     ],
     [
         2.4221582412719727,
         7.452908992767334,
         [
-            "course",
-            "study",
             "student",
-            "engineering"
+            "study",
+            "engineering",
+            "course"
         ]
     ],
     [
         3.2152891159057617,
         4.508325099945068,
         [
-            "use",
-            "medicine"
+            "medicine",
+            "use"
         ]
     ],
     [
-        2.6487669944763184,
-        5.686158657073975,
-        [
-            "mind",
-            "intelligence",
-            "impact",
-            "people",
-            "technology",
-            "change"
-        ]
-    ],
-    [
-        2.6487669944763184,
+        2.5354628562927246,
         5.568375587463379,
         [
-            "exploration",
-            "life",
             "space",
-            "scenario",
             "technology",
-            "imaginary"
+            "mind",
+            "posthuman",
+            "change",
+            "essay",
+            "people",
+            "subject"
         ]
     ],
     [
-        0.042766276746988297,
-        2.5060081481933594,
+        2.5354628562927246,
+        5.450592041015625,
         [
-            "way",
-            "system",
-            "relation",
-            "human",
-            "world",
-            "structure",
-            "action",
+            "space",
             "life",
-            "practice",
             "technology",
-            "interaction"
+            "exploration",
+            "imaginary",
+            "scenario"
         ]
     ],
     [
         0.15607066452503204,
-        2.3882246017456055,
+        2.5060081481933594,
         [
-            "way",
-            "technology",
-            "order",
-            "work"
-        ]
-    ],
-    [
-        0.042766276746988297,
-        2.3882246017456055,
-        [
-            "experience",
             "system",
-            "work",
+            "action",
             "relation",
+            "experience",
             "claim",
+            "technology",
             "world",
             "structure",
-            "action",
+            "scholar",
             "human",
-            "theory",
-            "technology",
-            "scholar"
+            "work",
+            "theory"
         ]
     ],
     [
         3.668506622314453,
         3.6838417053222656,
         [
-            "time",
-            "society",
-            "approach",
             "technology",
-            "imaginary",
             "city",
+            "vision",
+            "imaginary",
             "innovation",
-            "vision"
+            "approach",
+            "society",
+            "time"
         ]
     ],
     [
@@ -161,21 +136,21 @@
         3.9194083213806152,
         [
             "climate",
+            "relation",
             "science",
-            "paper",
-            "relation"
+            "paper"
         ]
     ],
     [
         0.042766276746988297,
         4.037191390991211,
         [
-            "study",
-            "relation",
             "understanding",
-            "philosophy",
             "concept",
+            "relation",
+            "philosophy",
             "technology",
+            "study",
             "notion"
         ]
     ],
@@ -183,28 +158,28 @@
         -0.4104512929916382,
         3.330491542816162,
         [
-            "question",
-            "idea",
-            "feasibility",
             "utopia",
-            "promise",
+            "question",
             "development",
+            "idea",
             "future",
+            "vision",
+            "feasibility",
             "influence",
-            "vision"
+            "promise"
         ]
     ],
     [
         -0.4104512929916382,
         5.450592041015625,
         [
-            "way",
-            "thinking",
-            "human",
-            "term",
+            "technology",
             "function",
+            "way",
+            "term",
+            "thinking",
             "people",
-            "technology"
+            "human"
         ]
     ],
     [
@@ -212,25 +187,13 @@
         5.80394172668457,
         [
             "system",
+            "technology",
             "cortex",
-            "work",
-            "paper",
             "function",
-            "technology",
             "brain",
-            "area"
-        ]
-    ],
-    [
-        2.6487669944763184,
-        5.686158657073975,
-        [
-            "mind",
-            "intelligence",
-            "impact",
-            "people",
-            "technology",
-            "change"
+            "paper",
+            "area",
+            "work"
         ]
     ],
     [
@@ -238,23 +201,24 @@
         5.686158657073975,
         [
             "information",
+            "experience",
             "culture",
-            "education",
-            "creativity",
-            "time",
-            "change"
+            "technology",
+            "process",
+            "mind",
+            "knowledge",
+            "way",
+            "idea",
+            "change",
+            "learning",
+            "people"
         ]
     ],
     [
         1.6290277242660522,
         2.859358072280884,
         [
-            "system",
-            "paper",
-            "problem",
-            "theory",
-            "technology",
-            "state"
+            "technology"
         ]
     ],
     [
@@ -280,27 +244,27 @@
         2.308854103088379,
         6.863992214202881,
         [
-            "communication",
             "study",
-            "issue",
+            "communication",
             "case",
-            "engineering"
+            "engineering",
+            "issue"
         ]
     ],
     [
         3.668506622314453,
         5.450592041015625,
         [
-            "information",
-            "protection",
             "system",
-            "paper",
-            "right",
-            "property",
-            "privacy",
-            "datum",
+            "information",
             "technology",
-            "data"
+            "paper",
+            "data",
+            "right",
+            "privacy",
+            "protection",
+            "property",
+            "datum"
         ]
     ],
     [
@@ -308,8 +272,8 @@
         4.037191390991211,
         [
             "way",
-            "technology",
-            "future"
+            "future",
+            "technology"
         ]
     ],
     [
@@ -317,31 +281,31 @@
         3.9194083213806152,
         [
             "system",
-            "technology",
+            "sphere",
             "life",
-            "sphere"
+            "technology"
         ]
     ],
     [
         1.855636477470398,
         4.037191390991211,
         [
-            "sphere",
             "life",
-            "society",
-            "humanity",
             "technology",
-            "future"
+            "sphere",
+            "future",
+            "humanity",
+            "society"
         ]
     ],
     [
         0.4959838390350342,
         5.0972418785095215,
         [
+            "turn",
             "philosopher",
-            "technology",
             "scientist",
-            "turn"
+            "technology"
         ]
     ],
     [
@@ -354,68 +318,69 @@
     ],
     [
         2.7620716094970703,
-        1.9170911312103271,
+        1.7993078231811523,
         [
-            "robotic",
             "robot",
-            "possibility"
+            "relation",
+            "meaning",
+            "implication",
+            "possibility",
+            "human",
+            "approach",
+            "relationship"
         ]
     ],
     [
         2.7620716094970703,
-        1.7993078231811523,
+        1.9170911312103271,
         [
-            "relationship",
+            "interaction",
             "relation",
-            "human",
-            "meaning",
-            "approach",
-            "possibility",
+            "robot",
+            "framework",
+            "problem",
+            "seibt",
             "implication",
-            "robot"
+            "human"
+        ]
+    ],
+    [
+        1.1758100986480713,
+        2.9771413803100586,
+        [
+            "way",
+            "people",
+            "society",
+            "technology"
         ]
     ],
     [
         1.0625057220458984,
         3.0949249267578125,
         [
-            "paper",
+            "form",
+            "technology",
             "example",
-            "technology",
-            "society",
-            "form"
-        ]
-    ],
-    [
-        0.9492013454437256,
-        3.212707996368408,
-        [
-            "way",
             "paper",
-            "virtue",
-            "technology",
-            "institution",
-            "concern",
-            "society",
-            "change"
+            "society"
         ]
     ],
     [
         0.4959838390350342,
         2.5060081481933594,
         [
-            "background",
-            "information",
-            "user",
-            "relation",
-            "device",
-            "surrounding",
-            "perception",
             "impact",
-            "environment",
-            "practice",
+            "surrounding",
+            "relation",
+            "information",
+            "perception",
             "technology",
+            "practice",
+            "user",
             "influence",
+            "environment",
+            "background",
+            "device",
             "engagement"
         ]
     ],
@@ -427,22 +392,32 @@
         ]
     ],
     [
-        -0.1838425099849701,
-        4.508325099945068,
+        -0.4104512929916382,
+        4.390542030334473,
         [
-            "challenge"
+            "kind",
+            "human",
+            "end"
+        ]
+    ],
+    [
+        -0.29714688658714294,
+        4.272758483886719,
+        [
+            "role",
+            "theory"
         ]
     ],
     [
         -0.07053811103105545,
         5.921725273132324,
         [
-            "context",
             "technology",
-            "case",
+            "context",
             "presentation",
-            "datum",
-            "solution"
+            "case",
+            "solution",
+            "datum"
         ]
     ],
     [
@@ -450,13 +425,13 @@
         5.80394172668457,
         [
             "system",
-            "cortex",
-            "work",
-            "paper",
-            "function",
             "technology",
+            "cortex",
+            "function",
             "brain",
-            "area"
+            "paper",
+            "area",
+            "work"
         ]
     ],
     [
@@ -464,26 +439,51 @@
         5.80394172668457,
         [
             "system",
-            "function",
-            "ability",
             "technology",
-            "development"
+            "function",
+            "development",
+            "ability"
         ]
     ],
     [
         0.2693750560283661,
         6.510642051696777,
         [
-            "inequality",
-            "user",
-            "paper",
-            "care",
-            "benefit",
-            "life",
-            "justice",
             "health",
+            "life",
+            "user",
+            "data",
+            "inequality",
+            "justice",
+            "paper",
             "datum",
-            "data"
+            "benefit",
+            "care"
+        ]
+    ],
+    [
+        0.38267943263053894,
+        6.392858982086182,
+        [
+            "concept",
+            "user",
+            "aspect",
+            "phenomenon",
+            "development",
+            "product"
+        ]
+    ],
+    [
+        1.0625057220458984,
+        2.741574764251709,
+        [
+            "question",
+            "technology",
+            "world",
+            "environment",
+            "paper",
+            "human",
+            "science"
         ]
     ],
     [
@@ -491,85 +491,86 @@
         2.859358072280884,
         [
             "relation",
-            "human",
-            "world",
-            "nature",
-            "society",
-            "practice",
             "technology",
-            "imaginary"
+            "world",
+            "practice",
+            "imaginary",
+            "nature",
+            "human",
+            "society"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        4.508325099945068,
+        [
+            "implementation",
+            "knowledge",
+            "contribution",
+            "basis",
+            "approach"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        2.2704412937164307,
+        [
+            "philosophy",
+            "technology",
+            "turn",
+            "description",
+            "philosopher",
+            "work"
         ]
     ],
     [
         1.0625057220458984,
         2.741574764251709,
         [
-            "paper",
+            "question",
+            "technology",
             "world",
-            "subject",
             "environment",
-            "technology"
-        ]
-    ],
-    [
-        0.15607066452503204,
-        2.2704412937164307,
-        [
-            "philosopher",
-            "work",
-            "turn",
-            "philosophy",
-            "description",
-            "technology"
-        ]
-    ],
-    [
-        0.042766276746988297,
-        2.2704412937164307,
-        [
-            "philosopher",
-            "work",
-            "relation",
+            "paper",
             "human",
-            "light",
-            "technology"
+            "science"
         ]
     ],
     [
         1.0625057220458984,
         2.623791217803955,
         [
-            "experience",
-            "paper",
-            "world",
             "perspective",
-            "benefit",
-            "use",
-            "reality",
-            "environment",
+            "interaction",
+            "experience",
             "technology",
-            "interaction"
+            "reality",
+            "world",
+            "paper",
+            "environment",
+            "benefit",
+            "use"
         ]
     ],
     [
         0.15607066452503204,
         5.0972418785095215,
         [
-            "way",
-            "aim",
-            "argument",
-            "human",
             "life",
+            "technology",
+            "aim",
+            "way",
+            "human",
             "basis",
-            "technology"
+            "argument"
         ]
     ],
     [
         0.2693750560283661,
         5.215024948120117,
         [
-            "technology",
-            "role"
+            "role",
+            "technology"
         ]
     ],
     [
@@ -577,45 +578,38 @@
         5.215024948120117,
         [
             "order",
-            "paper",
             "relation",
+            "technology",
             "intervention",
-            "technology"
+            "paper"
         ]
     ],
     [
         0.042766276746988297,
         5.0972418785095215,
         [
-            "right",
             "technology",
+            "right",
             "paper"
         ]
     ],
     [
-        2.195549488067627,
-        3.0949249267578125,
+        2.082245349884033,
+        3.330491542816162,
         [
-            "context",
             "paper",
-            "problem",
-            "action",
-            "automation",
-            "impact",
-            "opportunity",
-            "discussion",
-            "technology",
-            "development"
+            "extent",
+            "process"
         ]
     ],
     [
-        2.195549488067627,
+        2.082245349884033,
         3.212707996368408,
         [
-            "technology",
-            "philosophy",
+            "context",
             "capacity",
-            "context"
+            "philosophy",
+            "technology"
         ]
     ],
     [
@@ -623,46 +617,54 @@
         6.275075435638428,
         [
             "example",
-            "cost",
+            "ethic",
             "implication",
-            "ethic"
+            "cost"
         ]
     ],
     [
-        1.0625057220458984,
+        1.1758100986480713,
         3.448274850845337,
         [
+            "dimension",
             "hypothesis",
             "research",
-            "work",
-            "dimension",
-            "innovation"
+            "innovation",
+            "work"
         ]
     ],
     [
-        0.9492013454437256,
+        1.2891145944595337,
+        3.448274850845337,
+        [
+            "action",
+            "view"
+        ]
+    ],
+    [
+        1.2891145944595337,
         3.330491542816162,
         [
-            "paper",
-            "question",
-            "discourse",
             "concept",
-            "innovation"
+            "end",
+            "philosopher",
+            "paper",
+            "work"
         ]
     ],
     [
         -0.4104512929916382,
         3.330491542816162,
         [
-            "question",
-            "idea",
-            "feasibility",
             "utopia",
-            "promise",
+            "question",
             "development",
+            "idea",
             "future",
+            "vision",
+            "feasibility",
             "influence",
-            "vision"
+            "promise"
         ]
     ],
     [
@@ -671,43 +673,49 @@
         []
     ],
     [
-        2.195549488067627,
+        2.082245349884033,
         3.330491542816162,
         [
-            "power"
+            "paper",
+            "extent",
+            "process"
         ]
     ],
     [
-        0.9492013454437256,
+        1.0625057220458984,
         7.924042701721191,
         [
-            "value",
-            "creation",
-            "imaginary",
-            "technology",
-            "understanding",
-            "science",
-            "process",
-            "change",
-            "interview",
-            "time",
-            "engineering",
+            "result",
             "practice",
-            "shift",
-            "option",
+            "problem",
+            "way",
+            "care",
+            "philosophy",
+            "engineering",
+            "reflection",
+            "understanding",
+            "impact",
+            "order",
+            "epistemology",
+            "technology",
+            "world",
+            "knowledge",
             "design",
-            "development"
+            "element",
+            "point",
+            "mode",
+            "nature"
         ]
     ],
     [
         2.4221582412719727,
         3.9194083213806152,
         [
-            "technology",
-            "nature",
             "concept",
-            "force",
-            "development"
+            "technology",
+            "development",
+            "nature",
+            "force"
         ]
     ],
     [
@@ -715,215 +723,222 @@
         5.215024948120117,
         [
             "order",
-            "paper",
             "relation",
+            "technology",
             "intervention",
-            "technology"
+            "paper"
         ]
     ],
     [
         2.988680362701416,
         1.9170911312103271,
         [
-            "experience",
-            "relationship",
-            "human",
-            "field",
             "being",
-            "conclusion",
             "robot",
-            "activity"
-        ]
-    ],
-    [
-        1.5157233476638794,
-        2.859358072280884,
-        [
-            "study",
-            "technology",
-            "process",
-            "topic",
-            "identity",
-            "phenomenon"
-        ]
-    ],
-    [
-        0.15607066452503204,
-        4.508325099945068,
-        [
-            "aspect",
-            "object",
-            "thing",
-            "paper",
-            "work",
-            "difference",
-            "entity",
-            "technology"
-        ]
-    ],
-    [
-        0.042766276746988297,
-        4.626108169555664,
-        [
-            "work",
-            "paper",
-            "material",
-            "tendency",
-            "individual",
-            "use",
-            "technology"
-        ]
-    ],
-    [
-        0.15607066452503204,
-        4.626108169555664,
-        [
-            "technology",
-            "aspect",
-            "thing"
-        ]
-    ],
-    [
-        0.042766276746988297,
-        3.0949249267578125,
-        [
-            "example",
-            "technology",
-            "mind",
-            "approach"
+            "activity",
+            "experience",
+            "field",
+            "conclusion",
+            "human",
+            "relationship"
         ]
     ],
     [
         1.6290277242660522,
         2.859358072280884,
         [
-            "system",
-            "paper",
-            "problem",
-            "theory",
-            "technology",
-            "state"
+            "technology"
         ]
     ],
     [
         1.5157233476638794,
         2.859358072280884,
         [
-            "study",
             "technology",
-            "process",
-            "topic",
             "identity",
-            "phenomenon"
+            "process",
+            "study",
+            "phenomenon",
+            "topic"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        4.508325099945068,
+        [
+            "philosophy",
+            "law",
+            "imaginary",
+            "metaphor",
+            "paper",
+            "nature",
+            "society"
+        ]
+    ],
+    [
+        0.042766276746988297,
+        4.626108169555664,
+        [
+            "technology",
+            "tendency",
+            "individual",
+            "paper",
+            "material",
+            "work",
+            "use"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        4.626108169555664,
+        [
+            "thing",
+            "aspect",
+            "technology"
+        ]
+    ],
+    [
+        0.042766276746988297,
+        3.0949249267578125,
+        [
+            "mind",
+            "example",
+            "approach",
+            "technology"
+        ]
+    ],
+    [
+        1.5157233476638794,
+        2.859358072280884,
+        [
+            "technology",
+            "identity",
+            "process",
+            "study",
+            "phenomenon",
+            "topic"
         ]
     ],
     [
         0.042766276746988297,
         2.5060081481933594,
         [
-            "way",
+            "form",
             "system",
+            "action",
             "relation",
-            "human",
+            "process",
+            "technology",
             "world",
             "structure",
-            "action",
-            "life",
-            "practice",
-            "technology",
-            "interaction"
+            "role",
+            "situation",
+            "human",
+            "society"
         ]
     ],
     [
-        0.9492013454437256,
-        7.688475608825684,
+        1.0625057220458984,
+        7.924042701721191,
         [
+            "result",
+            "practice",
+            "problem",
             "way",
-            "aspect",
-            "example",
+            "care",
+            "philosophy",
+            "engineering",
+            "reflection",
             "understanding",
-            "approach",
+            "impact",
+            "order",
+            "epistemology",
+            "technology",
+            "world",
+            "knowledge",
+            "design",
             "element",
-            "design"
+            "point",
+            "mode",
+            "nature"
         ]
     ],
     [
         0.9492013454437256,
         7.8062591552734375,
         [
-            "thought",
-            "solution",
             "understanding",
-            "construction",
-            "approach",
-            "engineering",
-            "practice",
-            "technology",
-            "form",
-            "design"
+            "element",
+            "example",
+            "aspect",
+            "way",
+            "design",
+            "approach"
         ]
     ],
     [
-        0.8358969688415527,
-        7.688475608825684,
+        0.9492013454437256,
+        7.924042701721191,
         [
-            "way",
-            "aspect",
-            "reflection",
-            "example",
+            "form",
+            "understanding",
             "technology",
-            "philosophy",
+            "construction",
             "practice",
-            "problem",
-            "design"
+            "design",
+            "solution",
+            "engineering",
+            "approach",
+            "thought"
         ]
     ],
     [
         2.875375747680664,
         5.921725273132324,
         [
-            "intelligence",
-            "surveillance",
-            "ethic",
-            "ai",
-            "actor",
-            "literature",
-            "concern",
-            "datum",
+            "state",
             "technology",
-            "state"
+            "ai",
+            "surveillance",
+            "actor",
+            "ethic",
+            "literature",
+            "intelligence",
+            "datum",
+            "concern"
         ]
     ],
     [
-        2.195549488067627,
+        2.308854103088379,
         3.0949249267578125,
         [
+            "machine",
             "context",
+            "analysis",
+            "expectation",
+            "actor",
+            "pattern",
+            "democracy",
             "paper",
-            "problem",
-            "action",
-            "automation",
-            "impact",
-            "opportunity",
-            "discussion",
-            "technology",
-            "development"
+            "public",
+            "human"
         ]
     ],
     [
-        2.195549488067627,
-        2.9771413803100586,
+        2.4221582412719727,
+        3.212707996368408,
         [
+            "action",
+            "question",
+            "discussion",
+            "technology",
             "context",
-            "paper",
-            "pattern",
-            "human",
-            "democracy",
-            "actor",
-            "analysis",
-            "machine",
-            "public",
-            "expectation"
+            "knowledge",
+            "expectation",
+            "imaginary",
+            "trajectory",
+            "society",
+            "lack"
         ]
     ],
     [
@@ -931,35 +946,26 @@
         3.6838417053222656,
         [
             "world",
-            "process",
             "art",
-            "algorithm"
-        ]
-    ],
-    [
-        2.7620716094970703,
-        1.9170911312103271,
-        [
-            "robotic",
-            "robot",
-            "possibility"
+            "algorithm",
+            "process"
         ]
     ],
     [
         2.7620716094970703,
         2.034874439239502,
         [
-            "fiction",
             "robot",
+            "fiction",
             "machine"
         ]
     ],
     [
-        2.875375747680664,
-        1.9170911312103271,
+        2.6487669944763184,
+        2.152657985687256,
         [
             "robot",
-            "emotion",
+            "robotic",
             "machine"
         ]
     ],
@@ -967,28 +973,28 @@
         1.1758100986480713,
         6.157292366027832,
         [
+            "difference",
             "dynamic",
             "system",
-            "engineering",
-            "difference"
+            "engineering"
         ]
     ],
     [
         0.4959838390350342,
         2.5060081481933594,
         [
-            "background",
-            "information",
-            "user",
-            "relation",
-            "device",
-            "surrounding",
-            "perception",
             "impact",
-            "environment",
-            "practice",
+            "surrounding",
+            "relation",
+            "information",
+            "perception",
             "technology",
+            "practice",
+            "user",
             "influence",
+            "environment",
+            "background",
+            "device",
             "engagement"
         ]
     ],
@@ -996,14 +1002,14 @@
         -1.770103931427002,
         4.272758483886719,
         [
+            "form",
+            "philosophy",
+            "technology",
+            "practice",
+            "presentation",
             "material",
             "imagination",
-            "practice",
-            "philosophy",
-            "approach",
-            "presentation",
-            "technology",
-            "form"
+            "approach"
         ]
     ],
     [
@@ -1012,9 +1018,9 @@
         [
             "system",
             "relation",
+            "technology",
             "agency",
-            "issue",
-            "technology"
+            "issue"
         ]
     ],
     [
@@ -1026,19 +1032,29 @@
         ]
     ],
     [
+        2.308854103088379,
+        3.0949249267578125,
+        [
+            "machine",
+            "context",
+            "analysis",
+            "expectation",
+            "actor",
+            "pattern",
+            "democracy",
+            "paper",
+            "public",
+            "human"
+        ]
+    ],
+    [
         2.195549488067627,
-        2.9771413803100586,
+        3.0949249267578125,
         [
             "context",
-            "paper",
-            "pattern",
-            "human",
-            "democracy",
-            "actor",
-            "analysis",
-            "machine",
-            "public",
-            "expectation"
+            "study",
+            "concept",
+            "time"
         ]
     ],
     [
@@ -1050,45 +1066,34 @@
         ]
     ],
     [
-        0.609288215637207,
-        4.037191390991211,
+        1.0625057220458984,
+        4.154974937438965,
         [
+            "form",
             "technology",
-            "question"
+            "contrast",
+            "work",
+            "imagination",
+            "use"
         ]
     ],
     [
-        0.609288215637207,
-        3.9194083213806152,
+        0.9492013454437256,
+        4.037191390991211,
         [
-            "question",
-            "truth",
-            "presence",
-            "fact",
+            "talk",
+            "technology"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        4.154974937438965,
+        [
+            "form",
+            "concept",
             "philosophy",
             "technology",
-            "image"
-        ]
-    ],
-    [
-        0.7225925922393799,
-        3.9194083213806152,
-        [
-            "technology",
-            "history",
-            "question",
-            "approach"
-        ]
-    ],
-    [
-        0.7225925922393799,
-        4.037191390991211,
-        [
-            "term",
-            "concept",
-            "thinker",
-            "technology",
-            "form"
+            "thought"
         ]
     ],
     [
@@ -1096,9 +1101,9 @@
         3.9194083213806152,
         [
             "climate",
+            "relation",
             "science",
-            "paper",
-            "relation"
+            "paper"
         ]
     ],
     [
@@ -1106,12 +1111,12 @@
         3.8016247749328613,
         [
             "system",
+            "process",
+            "knowledge",
             "research",
             "paper",
             "science",
-            "use",
-            "process",
-            "knowledge"
+            "use"
         ]
     ],
     [
@@ -1119,25 +1124,13 @@
         3.8016247749328613,
         [
             "translation",
+            "relation",
             "field",
-            "use",
-            "relation"
+            "use"
         ]
     ],
     [
         0.9492013454437256,
-        4.979458808898926,
-        [
-            "decision",
-            "nature",
-            "concept",
-            "consequence",
-            "concern",
-            "practice"
-        ]
-    ],
-    [
-        1.0625057220458984,
         5.0972418785095215,
         [
             "decision",
@@ -1149,8 +1142,10 @@
         0.609288215637207,
         4.037191390991211,
         [
-            "technology",
-            "question"
+            "question",
+            "imaginary",
+            "time",
+            "technology"
         ]
     ],
     [
@@ -1158,45 +1153,60 @@
         4.154974937438965,
         [
             "system",
-            "technology",
+            "question",
             "tool",
-            "question"
+            "technology"
         ]
     ],
     [
         0.609288215637207,
+        4.037191390991211,
+        [
+            "question",
+            "imaginary",
+            "time",
+            "technology"
+        ]
+    ],
+    [
+        0.7225925922393799,
         3.9194083213806152,
         [
             "question",
-            "truth",
-            "presence",
-            "fact",
-            "philosophy",
-            "technology",
-            "image"
+            "development",
+            "reflection",
+            "technology"
+        ]
+    ],
+    [
+        0.7225925922393799,
+        4.037191390991211,
+        [
+            "way",
+            "condition",
+            "time",
+            "technology"
         ]
     ],
     [
         0.9492013454437256,
         4.979458808898926,
         [
-            "decision",
-            "nature",
-            "concept",
-            "consequence",
-            "concern",
-            "practice"
+            "world",
+            "ai",
+            "choice",
+            "decision"
         ]
     ],
     [
         0.8358969688415527,
         4.861675262451172,
         [
-            "decision",
-            "application",
+            "analysis",
             "algorithm",
+            "application",
             "making",
-            "analysis"
+            "decision"
         ]
     ],
     [
@@ -1210,21 +1220,21 @@
         0.4959838390350342,
         5.0972418785095215,
         [
+            "turn",
             "philosopher",
-            "technology",
             "scientist",
-            "turn"
+            "technology"
         ]
     ],
     [
         0.609288215637207,
         4.979458808898926,
         [
-            "ontology",
             "perspective",
             "philosophy",
             "practice",
-            "engineering"
+            "engineering",
+            "ontology"
         ]
     ],
     [
@@ -1235,125 +1245,113 @@
         ]
     ],
     [
-        -0.4104512929916382,
-        4.390542030334473,
-        [
-            "human",
-            "ai",
-            "friendship",
-            "feature",
-            "ability"
-        ]
-    ],
-    [
-        -0.29714688658714294,
-        4.272758483886719,
-        [
-            "way",
-            "aspect",
-            "capacity"
-        ]
+        -0.1838425099849701,
+        4.508325099945068,
+        []
     ],
     [
         -0.523755669593811,
         2.623791217803955,
         [
-            "object",
-            "human",
             "philosophy",
+            "object",
+            "technology",
             "techno",
             "role",
-            "technology"
+            "human"
         ]
     ],
     [
         -0.6370600461959839,
         2.741574764251709,
         [
-            "research",
-            "condition",
             "relation",
-            "time",
+            "technology",
             "techno",
-            "technology"
+            "condition",
+            "research",
+            "time"
         ]
     ],
     [
         -0.07053811103105545,
         5.921725273132324,
         [
-            "context",
             "technology",
-            "case",
+            "context",
             "presentation",
-            "datum",
-            "solution"
+            "case",
+            "solution",
+            "datum"
         ]
     ],
     [
         1.2891145944595337,
         6.157292366027832,
         [
-            "experience",
-            "system",
-            "research",
-            "example",
             "perspective",
+            "system",
+            "experience",
+            "technology",
+            "example",
+            "research"
+        ]
+    ],
+    [
+        2.082245349884033,
+        3.212707996368408,
+        [
+            "context",
+            "capacity",
+            "philosophy",
             "technology"
         ]
     ],
     [
         2.195549488067627,
-        3.212707996368408,
+        3.0949249267578125,
         [
-            "technology",
-            "philosophy",
-            "capacity",
-            "context"
-        ]
-    ],
-    [
-        2.195549488067627,
-        3.330491542816162,
-        [
-            "power"
-        ]
-    ],
-    [
-        2.308854103088379,
-        3.330491542816162,
-        [
-            "technology",
-            "capacity",
-            "representation",
-            "path"
-        ]
-    ],
-    [
-        0.15607066452503204,
-        2.3882246017456055,
-        [
-            "way",
-            "technology",
-            "order",
-            "work"
+            "context",
+            "study",
+            "concept",
+            "time"
         ]
     ],
     [
         0.15607066452503204,
         2.2704412937164307,
         [
-            "philosopher",
-            "work",
-            "turn",
             "philosophy",
+            "technology",
+            "turn",
             "description",
+            "philosopher",
+            "work"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        2.3882246017456055,
+        [
+            "philosopher",
+            "end",
+            "work",
             "technology"
         ]
     ],
     [
-        0.8358969688415527,
+        0.9492013454437256,
         3.212707996368408,
+        [
+            "role",
+            "country",
+            "technology",
+            "paper"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        3.330491542816162,
         [
             "way",
             "technology",
@@ -1361,93 +1359,77 @@
         ]
     ],
     [
-        0.7225925922393799,
-        3.0949249267578125,
-        [
-            "capacity",
-            "country",
-            "paper",
-            "narrative",
-            "case",
-            "practice",
-            "technology"
-        ]
-    ],
-    [
         4.1217241287231445,
-        3.5660581588745117,
+        3.6838417053222656,
         [
             "experience",
-            "video",
-            "basis",
             "game",
-            "influence"
+            "body",
+            "player",
+            "change",
+            "video",
+            "medium",
+            "imagination"
         ]
     ],
     [
         1.6290277242660522,
         6.981775760650635,
         [
-            "question",
             "insight",
-            "issue",
-            "science",
-            "characteristic",
+            "question",
             "account",
-            "engineering"
+            "engineering",
+            "issue",
+            "characteristic",
+            "science"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        4.508325099945068,
+        [
+            "philosophy",
+            "law",
+            "imaginary",
+            "metaphor",
+            "paper",
+            "nature",
+            "society"
         ]
     ],
     [
         0.2693750560283661,
         4.508325099945068,
         [
-            "paper",
-            "science",
+            "sense",
             "time",
             "machine",
-            "sense"
-        ]
-    ],
-    [
-        0.2693750560283661,
-        4.626108169555664,
-        [
-            "way",
-            "philosopher",
-            "world",
-            "tool"
-        ]
-    ],
-    [
-        0.38267943263053894,
-        4.626108169555664,
-        [
-            "way",
-            "development",
-            "machine",
-            "role"
+            "paper",
+            "science"
         ]
     ],
     [
         1.1758100986480713,
         5.215024948120117,
         [
-            "decision",
-            "member",
-            "agency",
-            "action",
-            "change"
+            "technology",
+            "practice",
+            "way",
+            "role",
+            "capacity",
+            "approach"
         ]
     ],
     [
         1.2891145944595337,
         5.215024948120117,
         [
-            "capacity",
-            "work",
+            "action",
             "responsibility",
             "ethic",
-            "action",
+            "capacity",
+            "work",
             "society"
         ]
     ],
@@ -1455,16 +1437,16 @@
         1.1758100986480713,
         5.332808494567871,
         [
-            "way",
             "group",
-            "distinction",
-            "example",
             "action",
-            "citizen",
-            "term",
-            "regulation",
+            "distinction",
             "technology",
-            "change"
+            "example",
+            "regulation",
+            "way",
+            "term",
+            "change",
+            "citizen"
         ]
     ],
     [
@@ -1472,9 +1454,9 @@
         6.157292366027832,
         [
             "system",
-            "hand",
             "knowledge",
-            "progress"
+            "progress",
+            "hand"
         ]
     ],
     [
@@ -1482,9 +1464,19 @@
         5.450592041015625,
         [
             "development",
+            "relation",
             "meaning",
-            "paper",
-            "relation"
+            "paper"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        4.508325099945068,
+        [
+            "way",
+            "method",
+            "effort",
+            "science"
         ]
     ],
     [
@@ -1504,10 +1496,10 @@
         1.742332100868225,
         4.508325099945068,
         [
+            "purpose",
             "inventor",
             "phenomenon",
-            "use",
-            "purpose"
+            "use"
         ]
     ],
     [
@@ -1519,20 +1511,23 @@
     ],
     [
         1.5157233476638794,
-        3.5660581588745117,
+        3.448274850845337,
         [
-            "content",
             "system",
-            "software",
-            "being",
-            "domain"
+            "philosophy",
+            "application",
+            "notion",
+            "clarification"
         ]
     ],
     [
         1.5157233476638794,
-        3.448274850845337,
+        3.5660581588745117,
         [
+            "understanding",
             "philosophy",
+            "analysis",
+            "representation",
             "science"
         ]
     ],
@@ -1540,32 +1535,53 @@
         1.6290277242660522,
         5.921725273132324,
         [
-            "technology",
             "case",
+            "art",
             "relation",
-            "art"
+            "technology"
+        ]
+    ],
+    [
+        1.5157233476638794,
+        3.448274850845337,
+        [
+            "system",
+            "philosophy",
+            "application",
+            "notion",
+            "clarification"
+        ]
+    ],
+    [
+        1.4024189710617065,
+        3.448274850845337,
+        [
+            "form",
+            "technique",
+            "system",
+            "technology"
         ]
     ],
     [
         1.4024189710617065,
         3.330491542816162,
         [
-            "technology",
-            "philosophy",
             "work",
-            "point"
+            "point",
+            "philosophy",
+            "technology"
         ]
     ],
     [
         3.3285937309265137,
         4.508325099945068,
         [
-            "physician",
             "perspective",
-            "device",
             "medicine",
+            "diagnosis",
             "presentation",
-            "diagnosis"
+            "physician",
+            "device"
         ]
     ],
     [
@@ -1574,217 +1590,233 @@
         [
             "structure",
             "conception",
+            "notion",
             "proposition",
-            "sort",
             "imagination",
-            "notion"
+            "sort"
         ]
     ],
     [
         2.988680362701416,
         4.037191390991211,
         [
-            "system",
-            "paper",
             "understanding",
             "concept",
-            "practice"
+            "system",
+            "practice",
+            "paper"
+        ]
+    ],
+    [
+        1.1758100986480713,
+        3.448274850845337,
+        [
+            "dimension",
+            "hypothesis",
+            "research",
+            "innovation",
+            "work"
         ]
     ],
     [
         1.0625057220458984,
         3.448274850845337,
         [
-            "hypothesis",
-            "research",
-            "work",
-            "dimension",
-            "innovation"
+            "context",
+            "innovation",
+            "use",
+            "technology"
         ]
     ],
     [
         1.1758100986480713,
         3.5660581588745117,
         [
-            "product",
-            "work",
             "beginning",
+            "technology",
             "word",
-            "technology"
+            "product",
+            "work"
         ]
     ],
     [
         1.855636477470398,
         7.452908992767334,
         [
-            "action",
-            "individual",
             "understanding",
-            "process",
+            "action",
             "philosophy",
+            "realization",
+            "process",
+            "technology",
+            "individual",
             "intention",
             "engineering",
-            "realization",
-            "approach",
             "artifact",
-            "technology"
+            "approach"
         ]
     ],
     [
         2.308854103088379,
         4.626108169555664,
         [
-            "technology",
             "case",
+            "imaginary",
             "light",
-            "imaginary"
+            "technology"
         ]
     ],
     [
         2.195549488067627,
         4.743891716003418,
         [
-            "aspect",
-            "condition",
-            "paper",
-            "knowledge",
             "philosophy",
-            "case"
+            "aspect",
+            "knowledge",
+            "case",
+            "condition",
+            "paper"
         ]
     ],
     [
         1.4024189710617065,
         4.037191390991211,
         [
-            "way",
-            "user",
-            "question",
-            "process",
-            "answer",
-            "case"
+            "scale",
+            "answer"
         ]
     ],
     [
-        1.0625057220458984,
+        1.1758100986480713,
         5.215024948120117,
         [
-            "paper",
-            "human",
-            "world",
-            "matter",
-            "emergence"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        5.332808494567871,
-        [
-            "way",
-            "ecology",
-            "world",
-            "matter",
-            "set",
-            "crisis",
             "technology",
-            "form"
+            "practice",
+            "way",
+            "role",
+            "capacity",
+            "approach"
         ]
     ],
     [
         1.0625057220458984,
         5.0972418785095215,
         [
-            "decision",
-            "system",
-            "paper"
-        ]
-    ],
-    [
-        1.1758100986480713,
-        5.215024948120117,
-        [
-            "decision",
-            "member",
-            "agency",
-            "action",
-            "change"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        5.215024948120117,
-        [
-            "paper",
-            "human",
             "world",
+            "emergence",
             "matter",
-            "emergence"
+            "paper",
+            "human"
         ]
     ],
     [
         1.1758100986480713,
         5.0972418785095215,
         [
-            "system",
-            "ai",
-            "environment",
+            "framework",
+            "set",
+            "problem",
+            "solution",
             "paper"
         ]
     ],
     [
         0.9492013454437256,
+        5.0972418785095215,
+        [
+            "decision",
+            "system",
+            "paper"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        4.979458808898926,
+        [
+            "world",
+            "ai",
+            "choice",
+            "decision"
+        ]
+    ],
+    [
+        1.0625057220458984,
+        5.0972418785095215,
+        [
+            "world",
+            "emergence",
+            "matter",
+            "paper",
+            "human"
+        ]
+    ],
+    [
+        0.7225925922393799,
         4.272758483886719,
         [
-            "thought",
-            "mimicry",
-            "level",
+            "way",
+            "datum",
+            "nature",
+            "technology"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        4.272758483886719,
+        [
+            "form",
+            "concept",
+            "philosophy",
             "project",
+            "technology",
             "shift",
             "paradigm",
-            "philosophy",
-            "concept",
-            "technology",
-            "form"
+            "level",
+            "mimicry",
+            "thought"
         ]
     ],
     [
         0.8358969688415527,
-        4.272758483886719,
+        4.390542030334473,
         [
             "way",
-            "instance",
             "form",
+            "instance",
             "nature"
-        ]
-    ],
-    [
-        0.8358969688415527,
-        4.154974937438965,
-        [
-            "way",
-            "information",
-            "paper",
-            "idea",
-            "shift",
-            "nature",
-            "implication",
-            "concept",
-            "thinker",
-            "technology",
-            "form"
         ]
     ],
     [
         2.308854103088379,
         4.626108169555664,
         [
-            "technology",
             "case",
+            "imaginary",
             "light",
-            "imaginary"
+            "technology"
         ]
     ],
     [
         1.1758100986480713,
+        3.8016247749328613,
+        [
+            "system",
+            "security",
+            "risk",
+            "technology"
+        ]
+    ],
+    [
+        1.2891145944595337,
+        3.8016247749328613,
+        [
+            "technology",
+            "use",
+            "rise"
+        ]
+    ],
+    [
+        1.2891145944595337,
         3.9194083213806152,
         [
             "infrastructure",
@@ -1796,13 +1828,45 @@
         ]
     ],
     [
-        2.4221582412719727,
+        2.5354628562927246,
         5.568375587463379,
         [
+            "space",
+            "technology",
+            "mind",
+            "posthuman",
+            "change",
+            "essay",
+            "people",
+            "subject"
+        ]
+    ],
+    [
+        2.5354628562927246,
+        5.686158657073975,
+        [
             "information",
+            "experience",
             "culture",
+            "technology",
+            "process",
+            "mind",
+            "knowledge",
+            "way",
+            "idea",
+            "change",
+            "learning",
+            "people"
+        ]
+    ],
+    [
+        2.4221582412719727,
+        5.686158657073975,
+        [
             "student",
             "teacher",
+            "information",
+            "culture",
             "practice",
             "change",
             "thought"
@@ -1814,75 +1878,65 @@
         [
             "structure",
             "conception",
+            "notion",
             "proposition",
-            "sort",
             "imagination",
-            "notion"
-        ]
-    ],
-    [
-        0.15607066452503204,
-        4.508325099945068,
-        [
-            "aspect",
-            "object",
-            "thing",
-            "paper",
-            "work",
-            "difference",
-            "entity",
-            "technology"
+            "sort"
         ]
     ],
     [
         0.2693750560283661,
         4.508325099945068,
         [
-            "paper",
-            "science",
+            "sense",
             "time",
             "machine",
-            "sense"
+            "paper",
+            "science"
         ]
     ],
     [
-        0.7225925922393799,
-        6.039508819580078,
+        0.2693750560283661,
+        4.626108169555664,
         [
-            "user",
-            "paper",
-            "instance",
-            "perspective",
+            "environment",
+            "thing",
+            "aspect",
             "technology"
         ]
     ],
     [
-        0.7225925922393799,
-        5.921725273132324,
+        0.38267943263053894,
+        4.626108169555664,
         [
-            "culture",
-            "community",
+            "machine",
+            "meaning",
+            "technology"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        6.039508819580078,
+        [
             "perspective",
-            "life",
-            "implication",
-            "description",
-            "practice",
             "technology",
-            "imaginary"
+            "user",
+            "instance",
+            "paper"
         ]
     ],
     [
         3.668506622314453,
         3.6838417053222656,
         [
-            "time",
-            "society",
-            "approach",
             "technology",
-            "imaginary",
             "city",
+            "vision",
+            "imaginary",
             "innovation",
-            "vision"
+            "approach",
+            "society",
+            "time"
         ]
     ],
     [
@@ -1890,10 +1944,10 @@
         5.80394172668457,
         [
             "system",
-            "function",
-            "ability",
             "technology",
-            "development"
+            "function",
+            "development",
+            "ability"
         ]
     ],
     [
@@ -1902,31 +1956,42 @@
         [
             "system",
             "relation",
+            "technology",
             "agency",
-            "issue",
-            "technology"
+            "issue"
         ]
     ],
     [
         -0.8636687994003296,
         5.686158657073975,
         [
+            "agent",
             "relation",
-            "idea",
             "technology",
             "agency",
-            "agent"
+            "idea"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        6.039508819580078,
+        [
+            "perspective",
+            "technology",
+            "user",
+            "instance",
+            "paper"
         ]
     ],
     [
         0.7225925922393799,
         6.039508819580078,
         [
-            "user",
-            "paper",
-            "instance",
+            "form",
             "perspective",
-            "technology"
+            "experience",
+            "technology",
+            "art"
         ]
     ],
     [
@@ -1934,9 +1999,9 @@
         4.154974937438965,
         [
             "system",
-            "technology",
+            "question",
             "tool",
-            "question"
+            "technology"
         ]
     ],
     [
@@ -1944,29 +2009,31 @@
         4.272758483886719,
         [
             "way",
-            "nature"
+            "datum",
+            "nature",
+            "technology"
         ]
     ],
     [
         0.7225925922393799,
         4.154974937438965,
         [
-            "way",
             "tool",
-            "art",
+            "technology",
+            "way",
             "term",
-            "nature",
-            "technology"
+            "art",
+            "nature"
         ]
     ],
     [
         0.042766276746988297,
         3.0949249267578125,
         [
-            "example",
-            "technology",
             "mind",
-            "approach"
+            "example",
+            "approach",
+            "technology"
         ]
     ],
     [
@@ -1982,12 +2049,12 @@
         1.5157233476638794,
         4.861675262451172,
         [
-            "decision",
-            "aim",
-            "paper",
             "context",
-            "work",
+            "aim",
             "making",
+            "paper",
+            "decision",
+            "work",
             "concern"
         ]
     ],
@@ -1996,36 +2063,36 @@
         4.861675262451172,
         [
             "context",
+            "imaginary",
             "paper",
-            "view",
             "force",
-            "imaginary"
+            "view"
         ]
     ],
     [
         2.875375747680664,
         3.0949249267578125,
         [
-            "election",
             "question",
             "article",
+            "technology",
+            "election",
             "algorithm",
-            "democracy",
             "platform",
-            "technology"
+            "democracy"
         ]
     ],
     [
         -0.4104512929916382,
         5.450592041015625,
         [
-            "way",
-            "thinking",
-            "human",
-            "term",
+            "technology",
             "function",
+            "way",
+            "term",
+            "thinking",
             "people",
-            "technology"
+            "human"
         ]
     ],
     [
@@ -2033,31 +2100,31 @@
         6.275075435638428,
         [
             "example",
-            "cost",
+            "ethic",
             "implication",
-            "ethic"
+            "cost"
         ]
     ],
     [
         1.1758100986480713,
         6.157292366027832,
         [
+            "difference",
             "dynamic",
             "system",
-            "engineering",
-            "difference"
+            "engineering"
         ]
     ],
     [
         1.2891145944595337,
         6.157292366027832,
         [
-            "experience",
-            "system",
-            "research",
-            "example",
             "perspective",
-            "technology"
+            "system",
+            "experience",
+            "technology",
+            "example",
+            "research"
         ]
     ],
     [
@@ -2065,59 +2132,58 @@
         6.275075435638428,
         [
             "system",
+            "philosophy",
+            "technology",
+            "difference",
+            "analysis",
+            "knowledge",
+            "advent",
             "research",
             "mechanic",
-            "advent",
-            "hand",
             "theory",
-            "knowledge",
-            "philosophy",
-            "analysis",
-            "difference",
-            "technology"
-        ]
-    ],
-    [
-        1.855636477470398,
-        3.6838417053222656,
-        [
-            "information",
-            "environment",
-            "role",
-            "technology",
-            "imaginary",
-            "innovation",
-            "development"
+            "hand"
         ]
     ],
     [
         1.742332100868225,
         3.8016247749328613,
         [
-            "philosophy",
             "concept",
-            "history",
-            "role",
-            "technology"
-        ]
-    ],
-    [
-        0.7225925922393799,
-        2.9771413803100586,
-        [
+            "philosophy",
             "technology",
-            "case",
-            "sense"
+            "history",
+            "role"
         ]
     ],
     [
-        1.1758100986480713,
+        1.855636477470398,
         3.6838417053222656,
         [
-            "information",
-            "moment",
-            "action",
-            "effect",
+            "technology",
+            "context",
+            "discourse",
+            "imaginary",
+            "paper",
+            "potential"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        3.0949249267578125,
+        [
+            "technology",
+            "reality",
+            "condition",
+            "role",
+            "dependence"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        2.9771413803100586,
+        [
+            "sense",
+            "case",
             "technology"
         ]
     ],
@@ -2126,110 +2192,149 @@
         3.8016247749328613,
         [
             "system",
-            "study",
-            "paper",
-            "technology",
-            "data",
-            "risk"
+            "security",
+            "risk",
+            "technology"
+        ]
+    ],
+    [
+        1.1758100986480713,
+        3.6838417053222656,
+        [
+            "effect",
+            "action",
+            "information",
+            "moment",
+            "technology"
         ]
     ],
     [
         0.15607066452503204,
         5.0972418785095215,
         [
-            "way",
-            "aim",
-            "argument",
-            "human",
             "life",
+            "technology",
+            "aim",
+            "way",
+            "human",
             "basis",
-            "technology"
+            "argument"
         ]
     ],
     [
         0.042766276746988297,
         5.0972418785095215,
         [
-            "right",
             "technology",
+            "right",
             "paper"
         ]
     ],
     [
         0.9492013454437256,
+        7.8062591552734375,
+        [
+            "understanding",
+            "element",
+            "example",
+            "aspect",
+            "way",
+            "design",
+            "approach"
+        ]
+    ],
+    [
+        0.8358969688415527,
         7.688475608825684,
         [
-            "way",
-            "aspect",
+            "question",
+            "process",
             "example",
-            "understanding",
-            "approach",
-            "element",
-            "design"
+            "aspect",
+            "way",
+            "development",
+            "ethic",
+            "design",
+            "research",
+            "imaginary",
+            "work",
+            "benefit"
         ]
     ],
     [
         0.4959838390350342,
         5.568375587463379,
         [
-            "experience",
-            "value",
-            "question",
-            "example",
-            "idea",
             "understanding",
+            "question",
+            "experience",
+            "technology",
+            "value",
+            "example",
+            "idea"
+        ]
+    ],
+    [
+        1.2891145944595337,
+        3.448274850845337,
+        [
+            "action",
+            "view"
+        ]
+    ],
+    [
+        1.4024189710617065,
+        3.448274850845337,
+        [
+            "form",
+            "technique",
+            "system",
             "technology"
         ]
     ],
     [
-        1.5157233476638794,
+        1.4024189710617065,
         3.5660581588745117,
         [
-            "content",
-            "system",
-            "software",
-            "being",
-            "domain"
-        ]
-    ],
-    [
-        1.5157233476638794,
-        3.6838417053222656,
-        [
-            "time",
-            "technology",
             "form",
-            "theory"
+            "life",
+            "technology",
+            "people",
+            "view"
         ]
     ],
     [
-        1.4024189710617065,
+        1.2891145944595337,
         3.5660581588745117,
         [
+            "action",
             "life",
-            "view",
+            "technology",
+            "user",
+            "individual",
             "people",
-            "technology",
-            "form"
-        ]
-    ],
-    [
-        1.4024189710617065,
-        3.6838417053222656,
-        [
-            "technology",
-            "desire"
+            "time"
         ]
     ],
     [
         -0.8636687994003296,
         5.686158657073975,
         [
+            "agent",
             "relation",
-            "idea",
             "technology",
             "agency",
-            "agent"
+            "idea"
+        ]
+    ],
+    [
+        1.1758100986480713,
+        2.9771413803100586,
+        [
+            "way",
+            "people",
+            "society",
+            "technology"
         ]
     ],
     [
@@ -2237,22 +2342,13 @@
         2.859358072280884,
         [
             "relation",
-            "human",
+            "technology",
             "world",
-            "nature",
-            "society",
             "practice",
-            "technology",
-            "imaginary"
-        ]
-    ],
-    [
-        1.1758100986480713,
-        2.9771413803100586,
-        [
-            "society",
-            "technology",
-            "reality"
+            "imaginary",
+            "nature",
+            "human",
+            "society"
         ]
     ],
     [
@@ -2268,39 +2364,39 @@
         4.979458808898926,
         [
             "order",
-            "computer",
-            "purpose",
             "practice",
-            "problem"
+            "problem",
+            "computer",
+            "purpose"
         ]
     ],
     [
         1.9689408540725708,
         5.0972418785095215,
         [
-            "research",
             "question",
-            "ai",
             "field",
-            "science",
-            "computer",
+            "ai",
             "respect",
             "solution",
-            "model"
+            "research",
+            "computer",
+            "model",
+            "science"
         ]
     ],
     [
         1.6290277242660522,
         5.568375587463379,
         [
-            "potential",
-            "mind",
-            "capacity",
+            "connection",
             "question",
+            "mind",
             "world",
             "body",
+            "capacity",
             "self",
-            "connection"
+            "potential"
         ]
     ],
     [
@@ -2308,19 +2404,8 @@
         5.450592041015625,
         [
             "development",
-            "technology",
             "question",
-            "relation"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        2.741574764251709,
-        [
-            "paper",
-            "world",
-            "subject",
-            "environment",
+            "relation",
             "technology"
         ]
     ],
@@ -2328,28 +2413,28 @@
         1.0625057220458984,
         2.623791217803955,
         [
-            "experience",
-            "paper",
-            "world",
             "perspective",
-            "benefit",
-            "use",
-            "reality",
-            "environment",
+            "interaction",
+            "experience",
             "technology",
-            "interaction"
+            "reality",
+            "world",
+            "paper",
+            "environment",
+            "benefit",
+            "use"
         ]
     ],
     [
         0.042766276746988297,
         4.037191390991211,
         [
-            "study",
-            "relation",
             "understanding",
-            "philosophy",
             "concept",
+            "relation",
+            "philosophy",
             "technology",
+            "study",
             "notion"
         ]
     ],
@@ -2357,41 +2442,41 @@
         2.308854103088379,
         6.863992214202881,
         [
-            "communication",
             "study",
-            "issue",
+            "communication",
             "case",
-            "engineering"
+            "engineering",
+            "issue"
         ]
     ],
     [
         0.38267943263053894,
         6.275075435638428,
         [
-            "experience",
-            "relationship",
-            "research",
-            "aspect",
             "object",
+            "experience",
+            "existence",
             "world",
-            "existence"
+            "aspect",
+            "research",
+            "relationship"
         ]
     ],
     [
         1.1758100986480713,
         4.272758483886719,
         [
-            "technology",
-            "number"
+            "number",
+            "technology"
         ]
     ],
     [
         1.2891145944595337,
         4.390542030334473,
         [
-            "technology",
+            "relevance",
             "analysis",
-            "relevance"
+            "technology"
         ]
     ],
     [
@@ -2407,29 +2492,29 @@
         3.8016247749328613,
         [
             "system",
+            "process",
+            "knowledge",
             "research",
             "paper",
             "science",
-            "use",
-            "process",
-            "knowledge"
+            "use"
         ]
     ],
     [
         0.2693750560283661,
         3.8016247749328613,
         [
+            "today",
+            "technology",
+            "one",
+            "foundation",
+            "cause",
             "research",
             "paper",
             "theory",
-            "one",
-            "view",
             "approach",
             "society",
-            "cause",
-            "foundation",
-            "technology",
-            "today"
+            "view"
         ]
     ],
     [
@@ -2437,35 +2522,35 @@
         6.157292366027832,
         [
             "system",
-            "hand",
             "knowledge",
-            "progress"
+            "progress",
+            "hand"
         ]
     ],
     [
-        2.195549488067627,
+        2.308854103088379,
         4.272758483886719,
         [
-            "paper",
-            "problem",
-            "exploration",
-            "innovation",
-            "approach",
-            "engineering",
-            "account",
             "technology",
+            "exercise",
+            "problem",
             "design",
-            "exercise"
+            "exploration",
+            "engineering",
+            "paper",
+            "innovation",
+            "account",
+            "approach"
         ]
     ],
     [
         2.4221582412719727,
         7.452908992767334,
         [
-            "course",
-            "study",
             "student",
-            "engineering"
+            "study",
+            "engineering",
+            "course"
         ]
     ],
     [
@@ -2473,46 +2558,46 @@
         7.452908992767334,
         [
             "student",
-            "world",
             "technology",
-            "engineering",
-            "design"
+            "world",
+            "design",
+            "engineering"
         ]
     ],
     [
         -1.770103931427002,
         4.272758483886719,
         [
+            "form",
+            "philosophy",
+            "technology",
+            "practice",
+            "presentation",
             "material",
             "imagination",
-            "practice",
-            "philosophy",
-            "approach",
-            "presentation",
-            "technology",
-            "form"
+            "approach"
         ]
     ],
     [
         -1.770103931427002,
         4.154974937438965,
         [
+            "form",
+            "interaction",
+            "technology",
             "world",
             "proposal",
-            "imagination",
-            "technology",
-            "form",
-            "interaction"
+            "imagination"
         ]
     ],
     [
         0.7225925922393799,
         3.9194083213806152,
         [
-            "technology",
-            "history",
             "question",
-            "approach"
+            "development",
+            "reflection",
+            "technology"
         ]
     ],
     [
@@ -2526,25 +2611,25 @@
         1.6290277242660522,
         6.981775760650635,
         [
-            "question",
             "insight",
-            "issue",
-            "science",
-            "characteristic",
+            "question",
             "account",
-            "engineering"
+            "engineering",
+            "issue",
+            "characteristic",
+            "science"
         ]
     ],
     [
         -0.523755669593811,
         2.623791217803955,
         [
-            "object",
-            "human",
             "philosophy",
+            "object",
+            "technology",
             "techno",
             "role",
-            "technology"
+            "human"
         ]
     ],
     [
@@ -2552,12 +2637,26 @@
         3.6838417053222656,
         [
             "experience",
-            "study",
+            "game",
+            "body",
+            "player",
+            "change",
+            "video",
+            "medium",
+            "imagination"
+        ]
+    ],
+    [
+        4.1217241287231445,
+        3.5660581588745117,
+        [
+            "experience",
             "culture",
+            "game",
+            "study",
             "video",
             "representation",
-            "image",
-            "game"
+            "image"
         ]
     ],
     [
@@ -2572,17 +2671,17 @@
         0.2693750560283661,
         5.215024948120117,
         [
-            "technology",
-            "role"
+            "role",
+            "technology"
         ]
     ],
     [
         0.2693750560283661,
         5.332808494567871,
         [
+            "purpose",
             "use",
-            "paper",
-            "purpose"
+            "paper"
         ]
     ],
     [
@@ -2601,35 +2700,26 @@
         ]
     ],
     [
-        2.082245349884033,
-        4.272758483886719,
-        [
-            "system",
-            "ability",
-            "paper"
-        ]
-    ],
-    [
         1.9689408540725708,
         4.154974937438965,
         [
-            "paper",
             "life",
+            "platform",
             "discourse",
-            "power",
-            "platform"
+            "paper",
+            "power"
         ]
     ],
     [
         2.875375747680664,
         4.626108169555664,
         [
-            "paper",
-            "control",
+            "concept",
             "type",
             "life",
-            "concept",
-            "existence"
+            "existence",
+            "paper",
+            "control"
         ]
     ],
     [
@@ -2645,20 +2735,32 @@
         1.0625057220458984,
         3.0949249267578125,
         [
-            "paper",
-            "example",
+            "form",
             "technology",
-            "society",
-            "form"
+            "example",
+            "paper",
+            "society"
         ]
     ],
     [
-        1.1758100986480713,
-        2.9771413803100586,
+        0.9492013454437256,
+        3.212707996368408,
         [
-            "society",
+            "role",
+            "country",
             "technology",
-            "reality"
+            "paper"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        3.0949249267578125,
+        [
+            "technology",
+            "reality",
+            "condition",
+            "role",
+            "dependence"
         ]
     ],
     [
@@ -2666,29 +2768,29 @@
         4.979458808898926,
         [
             "order",
-            "computer",
-            "purpose",
             "practice",
-            "problem"
+            "problem",
+            "computer",
+            "purpose"
         ]
     ],
     [
         1.742332100868225,
         4.861675262451172,
         [
-            "computer",
-            "purpose"
+            "purpose",
+            "computer"
         ]
     ],
     [
         1.2891145944595337,
         5.215024948120117,
         [
-            "capacity",
-            "work",
+            "action",
             "responsibility",
             "ethic",
-            "action",
+            "capacity",
+            "work",
             "society"
         ]
     ],
@@ -2696,54 +2798,71 @@
         1.4024189710617065,
         5.0972418785095215,
         [
-            "paper",
             "meaning",
+            "paper",
             "conception",
-            "time",
-            "society"
+            "society",
+            "time"
         ]
     ],
     [
         1.2891145944595337,
         5.0972418785095215,
         [
-            "set",
+            "purpose",
             "condition",
-            "paper",
-            "purpose"
+            "set",
+            "paper"
         ]
     ],
     [
         2.195549488067627,
         7.570692539215088,
         [
-            "integration",
+            "simulation",
             "knowledge",
-            "engineering",
             "design",
-            "simulation"
+            "engineering",
+            "integration"
+        ]
+    ],
+    [
+        2.4221582412719727,
+        3.212707996368408,
+        [
+            "action",
+            "question",
+            "discussion",
+            "technology",
+            "context",
+            "knowledge",
+            "expectation",
+            "imaginary",
+            "trajectory",
+            "society",
+            "lack"
         ]
     ],
     [
         2.4221582412719727,
         3.330491542816162,
         [
-            "relationship",
-            "capacity",
-            "mediation",
-            "environment",
-            "representation",
             "discussion",
             "technology",
-            "imaginary"
+            "environment",
+            "mediation",
+            "capacity",
+            "imaginary",
+            "representation",
+            "relationship"
         ]
     ],
     [
         1.1758100986480713,
         5.450592041015625,
         [
-            "distinction",
-            "power"
+            "power",
+            "distinction"
         ]
     ],
     [
@@ -2770,77 +2889,79 @@
         1.6290277242660522,
         2.152657985687256,
         [
-            "user",
-            "paper",
+            "form",
             "space",
-            "intention",
-            "case",
-            "artifact",
-            "designer",
             "technology",
-            "form"
+            "user",
+            "case",
+            "intention",
+            "designer",
+            "paper",
+            "artifact"
+        ]
+    ],
+    [
+        1.0625057220458984,
+        4.154974937438965,
+        [
+            "form",
+            "technology",
+            "contrast",
+            "work",
+            "imagination",
+            "use"
         ]
     ],
     [
         1.1758100986480713,
         4.272758483886719,
         [
-            "technology",
-            "number"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        4.272758483886719,
-        [
-            "relationship",
-            "technology",
-            "form",
-            "source"
+            "number",
+            "technology"
         ]
     ],
     [
         0.042766276746988297,
         4.626108169555664,
         [
-            "work",
-            "paper",
-            "material",
+            "technology",
             "tendency",
             "individual",
-            "use",
-            "technology"
+            "paper",
+            "material",
+            "work",
+            "use"
         ]
     ],
     [
         -0.07053811103105545,
         4.626108169555664,
         [
-            "limitation",
-            "paper",
-            "method",
             "life",
-            "challenge",
+            "limitation",
+            "technology",
+            "paper",
             "case",
-            "technology"
+            "challenge",
+            "method"
         ]
     ],
     [
         0.2693750560283661,
         5.332808494567871,
         [
+            "purpose",
             "use",
-            "paper",
-            "purpose"
+            "paper"
         ]
     ],
     [
         1.2891145944595337,
         4.390542030334473,
         [
-            "technology",
+            "relevance",
             "analysis",
-            "relevance"
+            "technology"
         ]
     ],
     [
@@ -2857,13 +2978,13 @@
         1.2891145944595337,
         4.508325099945068,
         [
-            "human",
-            "world",
+            "connection",
             "language",
+            "technology",
+            "world",
             "analysis",
             "case",
-            "connection",
-            "technology",
+            "human",
             "model"
         ]
     ],
@@ -2872,22 +2993,22 @@
         3.330491542816162,
         [
             "system",
-            "research",
             "question",
-            "use",
-            "process"
+            "process",
+            "research",
+            "use"
         ]
     ],
     [
         -1.770103931427002,
         4.154974937438965,
         [
+            "form",
+            "interaction",
+            "technology",
             "world",
             "proposal",
-            "imagination",
-            "technology",
-            "form",
-            "interaction"
+            "imagination"
         ]
     ],
     [
@@ -2902,118 +3023,91 @@
         3.330491542816162,
         [
             "system",
-            "research",
             "question",
-            "use",
-            "process"
+            "process",
+            "research",
+            "use"
         ]
     ],
     [
         2.7620716094970703,
         1.7993078231811523,
         [
-            "relationship",
+            "robot",
             "relation",
-            "human",
             "meaning",
-            "approach",
-            "possibility",
             "implication",
-            "robot"
+            "possibility",
+            "human",
+            "approach",
+            "relationship"
         ]
     ],
     [
         2.875375747680664,
         1.7993078231811523,
         [
-            "relationship",
-            "human",
+            "robot",
             "meaning",
+            "human",
             "time",
-            "robot"
+            "relationship"
         ]
     ],
     [
         -0.1838425099849701,
         4.508325099945068,
-        [
-            "challenge"
-        ]
+        []
     ],
     [
         -0.07053811103105545,
         4.626108169555664,
         [
-            "limitation",
-            "paper",
-            "method",
             "life",
-            "challenge",
+            "limitation",
+            "technology",
+            "paper",
             "case",
-            "technology"
+            "challenge",
+            "method"
         ]
     ],
     [
         -0.1838425099849701,
         4.626108169555664,
         [
-            "paper",
-            "principle",
-            "duty",
             "transparency",
             "case",
-            "accountability"
-        ]
-    ],
-    [
-        2.5354628562927246,
-        5.686158657073975,
-        [
-            "information",
-            "culture",
-            "education",
-            "creativity",
-            "time",
-            "change"
+            "principle",
+            "accountability",
+            "paper",
+            "duty"
         ]
     ],
     [
         2.4221582412719727,
-        5.568375587463379,
+        5.686158657073975,
         [
-            "information",
-            "culture",
             "student",
             "teacher",
+            "information",
+            "culture",
             "practice",
             "change",
             "thought"
         ]
     ],
     [
-        2.5354628562927246,
-        5.568375587463379,
-        [
-            "student",
-            "life",
-            "theory",
-            "power",
-            "teacher",
-            "imagination",
-            "imaginary"
-        ]
-    ],
-    [
         2.875375747680664,
         3.0949249267578125,
         [
-            "election",
             "question",
             "article",
+            "technology",
+            "election",
             "algorithm",
-            "democracy",
             "platform",
-            "technology"
+            "democracy"
         ]
     ],
     [
@@ -3021,11 +3115,11 @@
         5.80394172668457,
         [
             "system",
-            "paper",
-            "ethic",
-            "case",
+            "technology",
             "consideration",
-            "technology"
+            "case",
+            "ethic",
+            "paper"
         ]
     ],
     [
@@ -3033,19 +3127,19 @@
         5.686158657073975,
         [
             "body",
-            "paper",
-            "self"
+            "self",
+            "paper"
         ]
     ],
     [
         1.4024189710617065,
         5.686158657073975,
         [
-            "system",
-            "debate",
-            "issue",
             "need",
-            "technology"
+            "system",
+            "technology",
+            "debate",
+            "issue"
         ]
     ],
     [
@@ -3053,68 +3147,58 @@
         6.275075435638428,
         [
             "system",
+            "philosophy",
+            "technology",
+            "difference",
+            "analysis",
+            "knowledge",
+            "advent",
             "research",
             "mechanic",
-            "advent",
-            "hand",
             "theory",
-            "knowledge",
-            "philosophy",
-            "analysis",
-            "difference",
-            "technology"
-        ]
-    ],
-    [
-        2.308854103088379,
-        3.330491542816162,
-        [
-            "technology",
-            "capacity",
-            "representation",
-            "path"
+            "hand"
         ]
     ],
     [
         2.4221582412719727,
         3.330491542816162,
         [
-            "relationship",
-            "capacity",
-            "mediation",
-            "environment",
-            "representation",
             "discussion",
             "technology",
-            "imaginary"
+            "environment",
+            "mediation",
+            "capacity",
+            "imaginary",
+            "representation",
+            "relationship"
         ]
     ],
     [
         -0.1838425099849701,
         4.626108169555664,
         [
-            "paper",
-            "principle",
-            "duty",
             "transparency",
             "case",
-            "accountability"
+            "principle",
+            "accountability",
+            "paper",
+            "duty"
         ]
     ],
     [
         0.609288215637207,
         2.152657985687256,
         [
-            "way",
-            "relation",
-            "contribution",
             "understanding",
-            "turn",
-            "implication",
+            "relation",
             "philosophy",
-            "analysis",
-            "practice",
             "technology",
+            "turn",
+            "practice",
+            "analysis",
+            "contribution",
+            "way",
+            "implication",
             "notion"
         ]
     ],
@@ -3122,38 +3206,24 @@
         1.1758100986480713,
         5.332808494567871,
         [
-            "way",
             "group",
-            "distinction",
-            "example",
             "action",
-            "citizen",
-            "term",
+            "distinction",
+            "technology",
+            "example",
             "regulation",
-            "technology",
-            "change"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        5.332808494567871,
-        [
             "way",
-            "ecology",
-            "world",
-            "matter",
-            "set",
-            "crisis",
-            "technology",
-            "form"
+            "term",
+            "change",
+            "citizen"
         ]
     ],
     [
         1.1758100986480713,
         5.450592041015625,
         [
-            "distinction",
-            "power"
+            "power",
+            "distinction"
         ]
     ],
     [
@@ -3161,11 +3231,11 @@
         3.8016247749328613,
         [
             "decade",
-            "power",
-            "representation",
             "technology",
             "game",
-            "development"
+            "development",
+            "representation",
+            "power"
         ]
     ],
     [
@@ -3173,9 +3243,9 @@
         3.6838417053222656,
         [
             "world",
-            "process",
             "art",
-            "algorithm"
+            "algorithm",
+            "process"
         ]
     ],
     [
@@ -3190,11 +3260,11 @@
         -0.07053811103105545,
         3.6838417053222656,
         [
-            "intelligence",
-            "meaning",
             "form",
+            "meaning",
             "category",
             "environment",
+            "intelligence",
             "thought"
         ]
     ],
@@ -3202,11 +3272,11 @@
         0.609288215637207,
         4.979458808898926,
         [
-            "ontology",
             "perspective",
             "philosophy",
             "practice",
-            "engineering"
+            "engineering",
+            "ontology"
         ]
     ],
     [
@@ -3214,8 +3284,16 @@
         4.861675262451172,
         [
             "application",
-            "paper",
-            "analysis"
+            "analysis",
+            "paper"
+        ]
+    ],
+    [
+        0.9492013454437256,
+        4.037191390991211,
+        [
+            "talk",
+            "technology"
         ]
     ],
     [
@@ -3229,56 +3307,34 @@
         0.8358969688415527,
         4.037191390991211,
         [
-            "technology",
-            "relation"
+            "relation",
+            "technology"
         ]
     ],
     [
         0.9492013454437256,
         7.924042701721191,
         [
-            "value",
-            "creation",
-            "imaginary",
-            "technology",
-            "understanding",
-            "science",
-            "process",
-            "change",
-            "interview",
-            "time",
-            "engineering",
-            "practice",
-            "shift",
-            "option",
-            "design",
-            "development"
-        ]
-    ],
-    [
-        0.9492013454437256,
-        7.8062591552734375,
-        [
-            "thought",
-            "solution",
-            "understanding",
-            "construction",
-            "approach",
-            "engineering",
-            "practice",
-            "technology",
             "form",
-            "design"
+            "understanding",
+            "technology",
+            "construction",
+            "practice",
+            "design",
+            "solution",
+            "engineering",
+            "approach",
+            "thought"
         ]
     ],
     [
         1.6290277242660522,
         5.921725273132324,
         [
-            "technology",
             "case",
+            "art",
             "relation",
-            "art"
+            "technology"
         ]
     ],
     [
@@ -3286,21 +3342,22 @@
         5.80394172668457,
         [
             "system",
-            "paper",
-            "ethic",
-            "case",
+            "technology",
             "consideration",
-            "technology"
+            "case",
+            "ethic",
+            "paper"
         ]
     ],
     [
         1.5157233476638794,
         3.6838417053222656,
         [
-            "time",
-            "technology",
             "form",
-            "theory"
+            "order",
+            "technology",
+            "paper",
+            "science"
         ]
     ],
     [
@@ -3308,55 +3365,64 @@
         3.8016247749328613,
         [
             "order",
+            "technology",
+            "function",
             "work",
             "time",
-            "function",
-            "technology",
             "thought"
+        ]
+    ],
+    [
+        1.5157233476638794,
+        3.8016247749328613,
+        [
+            "form",
+            "order",
+            "norm",
+            "technology",
+            "paper"
         ]
     ],
     [
         0.15607066452503204,
         4.626108169555664,
         [
-            "technology",
+            "thing",
             "aspect",
-            "thing"
+            "technology"
         ]
     ],
     [
         0.2693750560283661,
         4.626108169555664,
         [
-            "way",
-            "philosopher",
-            "world",
-            "tool"
+            "environment",
+            "thing",
+            "aspect",
+            "technology"
         ]
     ],
     [
         -0.4104512929916382,
         4.390542030334473,
         [
+            "kind",
             "human",
-            "ai",
-            "friendship",
-            "feature",
-            "ability"
+            "end"
         ]
     ],
     [
         1.6290277242660522,
         5.568375587463379,
         [
-            "potential",
-            "mind",
-            "capacity",
+            "connection",
             "question",
+            "mind",
             "world",
             "body",
+            "capacity",
             "self",
-            "connection"
+            "potential"
         ]
     ],
     [
@@ -3364,72 +3430,68 @@
         5.686158657073975,
         [
             "body",
-            "paper",
-            "self"
+            "self",
+            "paper"
         ]
     ],
     [
         2.875375747680664,
         4.743891716003418,
         [
-            "product",
-            "tradition",
+            "technology",
             "process",
             "practice",
-            "technology",
-            "innovation"
+            "product",
+            "innovation",
+            "tradition"
         ]
     ],
     [
         0.7225925922393799,
-        5.921725273132324,
+        6.039508819580078,
         [
-            "culture",
-            "community",
+            "form",
             "perspective",
-            "life",
-            "implication",
-            "description",
-            "practice",
+            "experience",
             "technology",
-            "imaginary"
+            "art"
         ]
     ],
     [
         3.2152891159057617,
         4.508325099945068,
         [
-            "use",
-            "medicine"
+            "medicine",
+            "use"
         ]
     ],
     [
         3.3285937309265137,
         4.508325099945068,
         [
-            "physician",
             "perspective",
-            "device",
             "medicine",
+            "diagnosis",
             "presentation",
-            "diagnosis"
+            "physician",
+            "device"
         ]
     ],
     [
         0.2693750560283661,
         3.8016247749328613,
         [
+            "today",
+            "technology",
+            "one",
+            "foundation",
+            "cause",
             "research",
             "paper",
             "theory",
-            "one",
-            "view",
             "approach",
             "society",
-            "cause",
-            "foundation",
-            "technology",
-            "today"
+            "view"
         ]
     ],
     [
@@ -3453,38 +3515,54 @@
         1.6290277242660522,
         4.743891716003418,
         [
-            "technology",
+            "term",
             "object",
-            "term"
+            "technology"
         ]
     ],
     [
-        0.042766276746988297,
-        2.3882246017456055,
+        0.15607066452503204,
+        2.5060081481933594,
         [
-            "experience",
             "system",
-            "work",
+            "action",
             "relation",
+            "experience",
             "claim",
+            "technology",
             "world",
             "structure",
-            "action",
+            "scholar",
             "human",
-            "theory",
-            "technology",
-            "scholar"
+            "work",
+            "theory"
         ]
     ],
     [
         0.042766276746988297,
-        2.2704412937164307,
+        2.5060081481933594,
+        [
+            "form",
+            "system",
+            "action",
+            "relation",
+            "process",
+            "technology",
+            "world",
+            "structure",
+            "role",
+            "situation",
+            "human",
+            "society"
+        ]
+    ],
+    [
+        0.15607066452503204,
+        2.3882246017456055,
         [
             "philosopher",
+            "end",
             "work",
-            "relation",
-            "human",
-            "light",
             "technology"
         ]
     ],
@@ -3501,100 +3579,114 @@
         []
     ],
     [
-        1.4024189710617065,
+        1.5157233476638794,
         3.5660581588745117,
         [
-            "life",
-            "view",
-            "people",
-            "technology",
-            "form"
+            "understanding",
+            "philosophy",
+            "analysis",
+            "representation",
+            "science"
         ]
     ],
     [
         1.4024189710617065,
-        3.448274850845337,
+        3.5660581588745117,
+        [
+            "form",
+            "life",
+            "technology",
+            "people",
+            "view"
+        ]
+    ],
+    [
+        1.5157233476638794,
+        3.6838417053222656,
+        [
+            "form",
+            "order",
+            "technology",
+            "paper",
+            "science"
+        ]
+    ],
+    [
+        1.4024189710617065,
+        3.6838417053222656,
         [
             "order",
-            "paper",
-            "end",
-            "science",
-            "philosophy",
+            "use",
             "technology"
-        ]
-    ],
-    [
-        1.2891145944595337,
-        3.5660581588745117,
-        [
-            "people",
-            "technology",
-            "life"
         ]
     ],
     [
         0.8358969688415527,
         7.688475608825684,
         [
-            "way",
-            "aspect",
-            "reflection",
+            "question",
+            "process",
             "example",
-            "technology",
-            "philosophy",
-            "practice",
-            "problem",
-            "design"
+            "aspect",
+            "way",
+            "development",
+            "ethic",
+            "design",
+            "research",
+            "imaginary",
+            "work",
+            "benefit"
         ]
     ],
     [
         0.9492013454437256,
+        4.154974937438965,
+        [
+            "form",
+            "concept",
+            "philosophy",
+            "technology",
+            "thought"
+        ]
+    ],
+    [
+        0.8358969688415527,
         4.272758483886719,
         [
-            "thought",
-            "mimicry",
-            "level",
+            "form",
+            "concept",
+            "philosophy",
             "project",
+            "technology",
             "shift",
             "paradigm",
-            "philosophy",
-            "concept",
-            "technology",
-            "form"
+            "level",
+            "mimicry",
+            "thought"
         ]
     ],
     [
-        1.0625057220458984,
-        4.272758483886719,
+        0.8358969688415527,
+        4.154974937438965,
         [
-            "relationship",
-            "technology",
             "form",
-            "source"
-        ]
-    ],
-    [
-        1.0625057220458984,
-        4.390542030334473,
-        [
-            "dialogue",
-            "relationship",
+            "concept",
+            "relation",
+            "technology",
+            "shift",
             "study",
-            "understanding",
-            "notion",
-            "point",
-            "paradigm",
-            "form"
+            "condition",
+            "art"
         ]
     ],
     [
         1.742332100868225,
         4.508325099945068,
         [
+            "purpose",
             "inventor",
             "phenomenon",
-            "use",
-            "purpose"
+            "use"
         ]
     ],
     [
@@ -3609,23 +3701,23 @@
         1.6290277242660522,
         4.508325099945068,
         [
+            "technique",
             "dynamic",
-            "research",
             "century",
             "world",
-            "use",
-            "technique"
+            "research",
+            "use"
         ]
     ],
     [
         0.8358969688415527,
         4.861675262451172,
         [
-            "decision",
-            "application",
+            "analysis",
             "algorithm",
+            "application",
             "making",
-            "analysis"
+            "decision"
         ]
     ],
     [
@@ -3633,25 +3725,38 @@
         4.861675262451172,
         [
             "application",
-            "paper",
-            "analysis"
+            "analysis",
+            "paper"
         ]
     ],
     [
         0.8358969688415527,
-        4.272758483886719,
+        4.508325099945068,
         [
-            "way",
-            "instance",
-            "form",
-            "nature"
+            "implementation",
+            "knowledge",
+            "contribution",
+            "basis",
+            "approach"
         ]
     ],
     [
-        0.7225925922393799,
-        4.272758483886719,
+        0.9492013454437256,
+        4.508325099945068,
         [
             "way",
+            "method",
+            "effort",
+            "science"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        4.390542030334473,
+        [
+            "way",
+            "form",
+            "instance",
             "nature"
         ]
     ],
@@ -3659,48 +3764,44 @@
         0.7225925922393799,
         4.037191390991211,
         [
-            "term",
-            "concept",
-            "thinker",
-            "technology",
-            "form"
-        ]
-    ],
-    [
-        0.8358969688415527,
-        4.154974937438965,
-        [
             "way",
-            "information",
-            "paper",
-            "idea",
-            "shift",
-            "nature",
-            "implication",
-            "concept",
-            "thinker",
-            "technology",
-            "form"
+            "condition",
+            "time",
+            "technology"
         ]
     ],
     [
         0.7225925922393799,
         4.154974937438965,
         [
-            "way",
             "tool",
-            "art",
+            "technology",
+            "way",
             "term",
-            "nature",
+            "art",
+            "nature"
+        ]
+    ],
+    [
+        0.8358969688415527,
+        4.037191390991211,
+        [
+            "relation",
             "technology"
         ]
     ],
     [
         0.8358969688415527,
-        4.037191390991211,
+        4.154974937438965,
         [
+            "form",
+            "concept",
+            "relation",
             "technology",
-            "relation"
+            "shift",
+            "study",
+            "condition",
+            "art"
         ]
     ],
     [
@@ -3708,29 +3809,29 @@
         4.626108169555664,
         [
             "system",
+            "technology",
             "value",
-            "intelligence",
-            "level",
-            "benefit",
             "machine",
+            "level",
             "possibility",
-            "technology"
+            "intelligence",
+            "benefit"
         ]
     ],
     [
         2.308854103088379,
         7.570692539215088,
         [
-            "educator",
             "student",
-            "paper",
-            "world",
+            "program",
             "technology",
-            "learning",
-            "approach",
             "practice",
+            "world",
+            "educator",
+            "learning",
             "engineering",
-            "program"
+            "paper",
+            "approach"
         ]
     ],
     [
@@ -3738,73 +3839,35 @@
         7.452908992767334,
         [
             "student",
-            "world",
             "technology",
-            "engineering",
-            "design"
+            "world",
+            "design",
+            "engineering"
         ]
     ],
     [
         2.195549488067627,
         7.570692539215088,
         [
-            "integration",
+            "simulation",
             "knowledge",
-            "engineering",
             "design",
-            "simulation"
-        ]
-    ],
-    [
-        1.855636477470398,
-        3.6838417053222656,
-        [
-            "information",
-            "environment",
-            "role",
-            "technology",
-            "imaginary",
-            "innovation",
-            "development"
+            "engineering",
+            "integration"
         ]
     ],
     [
         1.855636477470398,
         3.5660581588745117,
         [
-            "technology",
+            "theme",
             "imaginary",
-            "theme"
-        ]
-    ],
-    [
-        0.9492013454437256,
-        3.212707996368408,
-        [
-            "way",
-            "paper",
-            "virtue",
-            "technology",
-            "institution",
-            "concern",
-            "society",
-            "change"
+            "technology"
         ]
     ],
     [
         0.9492013454437256,
         3.330491542816162,
-        [
-            "paper",
-            "question",
-            "discourse",
-            "concept",
-            "innovation"
-        ]
-    ],
-    [
-        0.8358969688415527,
-        3.212707996368408,
         [
             "way",
             "technology",
@@ -3812,74 +3875,71 @@
         ]
     ],
     [
-        3.5552024841308594,
-        5.450592041015625,
+        1.0625057220458984,
+        3.448274850845337,
         [
-            "information",
-            "paper",
-            "surveillance",
-            "privacy",
+            "context",
+            "innovation",
+            "use",
             "technology"
         ]
     ],
     [
-        2.6487669944763184,
-        5.568375587463379,
+        3.5552024841308594,
+        5.450592041015625,
         [
-            "exploration",
-            "life",
-            "space",
-            "scenario",
+            "information",
             "technology",
-            "imaginary"
+            "surveillance",
+            "privacy",
+            "paper"
         ]
     ],
     [
         2.5354628562927246,
-        5.568375587463379,
+        5.450592041015625,
         [
-            "student",
+            "space",
             "life",
-            "theory",
-            "power",
-            "teacher",
-            "imagination",
-            "imaginary"
+            "technology",
+            "exploration",
+            "imaginary",
+            "scenario"
         ]
     ],
     [
         2.875375747680664,
         4.626108169555664,
         [
-            "paper",
-            "control",
+            "concept",
             "type",
             "life",
-            "concept",
-            "existence"
+            "existence",
+            "paper",
+            "control"
         ]
     ],
     [
         2.875375747680664,
         4.743891716003418,
         [
-            "product",
-            "tradition",
+            "technology",
             "process",
             "practice",
-            "technology",
-            "innovation"
+            "product",
+            "innovation",
+            "tradition"
         ]
     ],
     [
         1.4024189710617065,
         5.0972418785095215,
         [
-            "paper",
             "meaning",
+            "paper",
             "conception",
-            "time",
-            "society"
+            "society",
+            "time"
         ]
     ],
     [
@@ -3905,21 +3965,21 @@
         2.988680362701416,
         4.037191390991211,
         [
-            "system",
-            "paper",
             "understanding",
             "concept",
-            "practice"
+            "system",
+            "practice",
+            "paper"
         ]
     ],
     [
         0.609288215637207,
         5.450592041015625,
         [
-            "decision",
-            "aspect",
             "effect",
             "technology",
+            "aspect",
+            "decision",
             "engagement"
         ]
     ],
@@ -3927,16 +3987,16 @@
         2.6487669944763184,
         4.508325099945068,
         [
-            "way",
-            "animal",
-            "study",
-            "paper",
-            "idea",
-            "narrative",
-            "theory",
-            "discourse",
             "posthumanism",
-            "imaginary"
+            "study",
+            "way",
+            "idea",
+            "animal",
+            "imaginary",
+            "paper",
+            "discourse",
+            "theory",
+            "narrative"
         ]
     ],
     [
@@ -3944,9 +4004,9 @@
         5.450592041015625,
         [
             "development",
+            "relation",
             "meaning",
-            "paper",
-            "relation"
+            "paper"
         ]
     ],
     [
@@ -3954,21 +4014,21 @@
         5.450592041015625,
         [
             "development",
-            "technology",
             "question",
-            "relation"
+            "relation",
+            "technology"
         ]
     ],
     [
         1.5157233476638794,
         4.861675262451172,
         [
-            "decision",
-            "aim",
-            "paper",
             "context",
-            "work",
+            "aim",
             "making",
+            "paper",
+            "decision",
+            "work",
             "concern"
         ]
     ],
@@ -3986,94 +4046,85 @@
         1.6290277242660522,
         4.861675262451172,
         [
-            "research",
+            "technology",
             "work",
             "term",
-            "science",
+            "research",
             "purpose",
-            "approach",
             "promise",
-            "technology"
+            "approach",
+            "science"
         ]
     ],
     [
         1.9689408540725708,
         5.0972418785095215,
         [
-            "research",
             "question",
-            "ai",
             "field",
-            "science",
-            "computer",
+            "ai",
             "respect",
             "solution",
-            "model"
+            "research",
+            "computer",
+            "model",
+            "science"
         ]
     ],
     [
         2.082245349884033,
         5.215024948120117,
         [
-            "transformation",
+            "technology",
+            "case",
+            "discourse",
             "paper",
             "science",
-            "discourse",
-            "case",
-            "technology"
+            "transformation"
         ]
     ],
     [
-        2.195549488067627,
+        2.308854103088379,
         4.272758483886719,
         [
-            "paper",
-            "problem",
-            "exploration",
-            "innovation",
-            "approach",
-            "engineering",
-            "account",
             "technology",
+            "exercise",
+            "problem",
             "design",
-            "exercise"
-        ]
-    ],
-    [
-        2.082245349884033,
-        4.272758483886719,
-        [
-            "system",
-            "ability",
-            "paper"
+            "exploration",
+            "engineering",
+            "paper",
+            "innovation",
+            "account",
+            "approach"
         ]
     ],
     [
         1.2891145944595337,
         4.861675262451172,
         [
-            "statistic",
             "value",
-            "mathematic",
-            "paper",
             "technology",
-            "vision"
+            "vision",
+            "statistic",
+            "paper",
+            "mathematic"
         ]
     ],
     [
         2.308854103088379,
         6.275075435638428,
         [
-            "paper",
-            "question",
-            "algorithm",
             "network",
-            "bias",
+            "question",
             "machine",
-            "statistician",
             "processing",
-            "datum",
-            "problem"
+            "algorithm",
+            "bias",
+            "statistician",
+            "problem",
+            "paper",
+            "datum"
         ]
     ],
     [
@@ -4081,62 +4132,48 @@
         4.037191390991211,
         [
             "way",
-            "technology",
-            "future"
-        ]
-    ],
-    [
-        0.7225925922393799,
-        3.0949249267578125,
-        [
-            "capacity",
-            "country",
-            "paper",
-            "narrative",
-            "case",
-            "practice",
+            "future",
             "technology"
         ]
     ],
     [
-        0.7225925922393799,
+        0.8358969688415527,
         2.9771413803100586,
         [
-            "technology",
+            "sense",
             "case",
-            "sense"
+            "technology"
         ]
     ],
     [
         -0.29714688658714294,
         4.272758483886719,
         [
-            "way",
-            "aspect",
-            "capacity"
+            "role",
+            "theory"
         ]
     ],
     [
         0.4959838390350342,
         5.568375587463379,
         [
-            "experience",
-            "value",
-            "question",
-            "example",
-            "idea",
             "understanding",
-            "technology"
+            "question",
+            "experience",
+            "technology",
+            "value",
+            "example",
+            "idea"
         ]
     ],
     [
         0.609288215637207,
         5.450592041015625,
         [
-            "decision",
-            "aspect",
             "effect",
             "technology",
+            "aspect",
+            "decision",
             "engagement"
         ]
     ],
@@ -4154,13 +4191,13 @@
         1.5157233476638794,
         4.390542030334473,
         [
-            "way",
-            "study",
-            "paper",
-            "world",
             "field",
             "technology",
+            "world",
+            "study",
+            "way",
             "notion",
+            "paper",
             "innovation"
         ]
     ],
@@ -4168,70 +4205,70 @@
         1.742332100868225,
         4.861675262451172,
         [
-            "computer",
-            "purpose"
+            "purpose",
+            "computer"
         ]
     ],
     [
         1.6290277242660522,
         4.743891716003418,
         [
-            "technology",
+            "term",
             "object",
-            "term"
+            "technology"
         ]
     ],
     [
         1.6290277242660522,
         4.861675262451172,
         [
-            "research",
+            "technology",
             "work",
             "term",
-            "science",
+            "research",
             "purpose",
-            "approach",
             "promise",
-            "technology"
+            "approach",
+            "science"
         ]
     ],
     [
         -0.6370600461959839,
         2.741574764251709,
         [
-            "research",
-            "condition",
             "relation",
-            "time",
+            "technology",
             "techno",
-            "technology"
+            "condition",
+            "research",
+            "time"
         ]
     ],
     [
         -0.7503644227981567,
         2.859358072280884,
         [
+            "techno",
             "way",
-            "research",
             "condition",
-            "time",
-            "techno"
+            "research",
+            "time"
         ]
     ],
     [
         3.668506622314453,
         5.450592041015625,
         [
-            "information",
-            "protection",
             "system",
-            "paper",
-            "right",
-            "property",
-            "privacy",
-            "datum",
+            "information",
             "technology",
-            "data"
+            "paper",
+            "data",
+            "right",
+            "privacy",
+            "protection",
+            "property",
+            "datum"
         ]
     ],
     [
@@ -4239,10 +4276,10 @@
         5.450592041015625,
         [
             "information",
-            "paper",
+            "technology",
             "surveillance",
             "privacy",
-            "technology"
+            "paper"
         ]
     ],
     [
@@ -4254,25 +4291,16 @@
         0.2693750560283661,
         6.510642051696777,
         [
-            "inequality",
-            "user",
-            "paper",
-            "care",
-            "benefit",
-            "life",
-            "justice",
             "health",
-            "datum",
-            "data"
-        ]
-    ],
-    [
-        0.38267943263053894,
-        6.392858982086182,
-        [
+            "life",
             "user",
-            "field",
-            "design"
+            "data",
+            "inequality",
+            "justice",
+            "paper",
+            "datum",
+            "benefit",
+            "care"
         ]
     ],
     [
@@ -4289,49 +4317,40 @@
         3.8016247749328613,
         [
             "translation",
+            "relation",
             "field",
-            "use",
-            "relation"
+            "use"
         ]
     ],
     [
         -0.07053811103105545,
         3.6838417053222656,
         [
-            "thought",
-            "intelligence",
+            "form",
             "meaning",
             "category",
             "environment",
-            "form"
+            "intelligence",
+            "thought"
         ]
     ],
     [
-        1.5157233476638794,
-        3.448274850845337,
+        1.2891145944595337,
+        3.330491542816162,
         [
-            "philosophy",
-            "science"
+            "concept",
+            "end",
+            "philosopher",
+            "paper",
+            "work"
         ]
     ],
     [
         1.4024189710617065,
         3.330491542816162,
         [
-            "technology",
-            "philosophy",
             "work",
-            "point"
-        ]
-    ],
-    [
-        1.4024189710617065,
-        3.448274850845337,
-        [
-            "order",
-            "paper",
-            "end",
-            "science",
+            "point",
             "philosophy",
             "technology"
         ]
@@ -4347,54 +4366,69 @@
         1.4024189710617065,
         5.686158657073975,
         [
-            "system",
-            "debate",
-            "issue",
             "need",
-            "technology"
+            "system",
+            "technology",
+            "debate",
+            "issue"
+        ]
+    ],
+    [
+        2.7620716094970703,
+        1.9170911312103271,
+        [
+            "interaction",
+            "relation",
+            "robot",
+            "framework",
+            "problem",
+            "seibt",
+            "implication",
+            "human"
         ]
     ],
     [
         2.7620716094970703,
         2.034874439239502,
         [
-            "fiction",
             "robot",
+            "fiction",
             "machine"
         ]
     ],
     [
-        2.6487669944763184,
-        2.152657985687256,
+        2.875375747680664,
+        1.9170911312103271,
         [
+            "interaction",
+            "human",
             "robot",
-            "machine",
-            "interaction"
+            "machine"
         ]
     ],
     [
         1.6290277242660522,
         4.508325099945068,
         [
+            "technique",
             "dynamic",
-            "research",
             "century",
             "world",
-            "use",
-            "technique"
+            "research",
+            "use"
         ]
     ],
     [
         1.5157233476638794,
         4.390542030334473,
         [
-            "way",
-            "study",
-            "paper",
-            "world",
             "field",
             "technology",
+            "world",
+            "study",
+            "way",
             "notion",
+            "paper",
             "innovation"
         ]
     ],
@@ -4402,44 +4436,44 @@
         1.6290277242660522,
         4.390542030334473,
         [
-            "way",
             "dynamic",
-            "world",
             "field",
-            "feature"
+            "world",
+            "feature",
+            "way"
         ]
     ],
     [
         1.855636477470398,
         7.452908992767334,
         [
-            "action",
-            "individual",
             "understanding",
-            "process",
+            "action",
             "philosophy",
+            "realization",
+            "process",
+            "technology",
+            "individual",
             "intention",
             "engineering",
-            "realization",
-            "approach",
             "artifact",
-            "technology"
+            "approach"
         ]
     ],
     [
         0.609288215637207,
         2.152657985687256,
         [
-            "way",
-            "relation",
-            "contribution",
             "understanding",
-            "turn",
-            "implication",
+            "relation",
             "philosophy",
-            "analysis",
-            "practice",
             "technology",
+            "turn",
+            "practice",
+            "analysis",
+            "contribution",
+            "way",
+            "implication",
             "notion"
         ]
     ],
@@ -4447,10 +4481,10 @@
         2.082245349884033,
         4.743891716003418,
         [
-            "study",
             "impact",
+            "production",
             "role",
-            "production"
+            "study"
         ]
     ],
     [
@@ -4458,10 +4492,10 @@
         4.861675262451172,
         [
             "context",
+            "imaginary",
             "paper",
-            "view",
             "force",
-            "imaginary"
+            "view"
         ]
     ],
     [
@@ -4477,12 +4511,12 @@
         1.2891145944595337,
         4.861675262451172,
         [
-            "statistic",
             "value",
-            "mathematic",
-            "paper",
             "technology",
-            "vision"
+            "vision",
+            "statistic",
+            "paper",
+            "mathematic"
         ]
     ],
     [
@@ -4496,37 +4530,38 @@
         2.082245349884033,
         5.215024948120117,
         [
-            "transformation",
+            "technology",
+            "case",
+            "discourse",
             "paper",
             "science",
-            "discourse",
-            "case",
-            "technology"
+            "transformation"
         ]
     ],
     [
         2.875375747680664,
         5.921725273132324,
         [
-            "intelligence",
-            "surveillance",
-            "ethic",
-            "ai",
-            "actor",
-            "literature",
-            "concern",
-            "datum",
+            "state",
             "technology",
-            "state"
+            "ai",
+            "surveillance",
+            "actor",
+            "ethic",
+            "literature",
+            "intelligence",
+            "datum",
+            "concern"
         ]
     ],
     [
         1.1758100986480713,
         5.0972418785095215,
         [
-            "system",
-            "ai",
-            "environment",
+            "framework",
+            "set",
+            "problem",
+            "solution",
             "paper"
         ]
     ],
@@ -4534,10 +4569,10 @@
         1.2891145944595337,
         5.0972418785095215,
         [
-            "set",
+            "purpose",
             "condition",
-            "paper",
-            "purpose"
+            "set",
+            "paper"
         ]
     ],
     [
@@ -4551,11 +4586,11 @@
         2.4221582412719727,
         3.9194083213806152,
         [
-            "technology",
-            "nature",
             "concept",
-            "force",
-            "development"
+            "technology",
+            "development",
+            "nature",
+            "force"
         ]
     ],
     [
@@ -4563,11 +4598,11 @@
         3.8016247749328613,
         [
             "decade",
-            "power",
-            "representation",
             "technology",
             "game",
-            "development"
+            "development",
+            "representation",
+            "power"
         ]
     ],
     [
@@ -4583,13 +4618,13 @@
         1.2891145944595337,
         4.508325099945068,
         [
-            "human",
-            "world",
+            "connection",
             "language",
+            "technology",
+            "world",
             "analysis",
             "case",
-            "connection",
-            "technology",
+            "human",
             "model"
         ]
     ],
@@ -4597,16 +4632,16 @@
         1.1758100986480713,
         4.508325099945068,
         [
-            "relationship",
-            "object",
-            "material",
-            "tool",
-            "idea",
             "resource",
-            "case",
-            "approach",
+            "object",
+            "tool",
             "practice",
-            "model"
+            "case",
+            "idea",
+            "material",
+            "model",
+            "approach",
+            "relationship"
         ]
     ],
     [
@@ -4614,23 +4649,12 @@
         3.5660581588745117,
         [
             "experience",
-            "video",
-            "basis",
-            "game",
-            "influence"
-        ]
-    ],
-    [
-        4.1217241287231445,
-        3.6838417053222656,
-        [
-            "experience",
-            "study",
             "culture",
+            "game",
+            "study",
             "video",
             "representation",
-            "image",
-            "game"
+            "image"
         ]
     ],
     [
@@ -4638,20 +4662,20 @@
         3.9194083213806152,
         [
             "system",
-            "technology",
+            "sphere",
             "life",
-            "sphere"
+            "technology"
         ]
     ],
     [
         1.742332100868225,
         3.8016247749328613,
         [
-            "philosophy",
             "concept",
+            "philosophy",
+            "technology",
             "history",
-            "role",
-            "technology"
+            "role"
         ]
     ],
     [
@@ -4659,28 +4683,11 @@
         3.8016247749328613,
         [
             "order",
+            "technology",
+            "function",
             "work",
             "time",
-            "function",
-            "technology",
             "thought"
-        ]
-    ],
-    [
-        1.4024189710617065,
-        3.6838417053222656,
-        [
-            "technology",
-            "desire"
-        ]
-    ],
-    [
-        1.2891145944595337,
-        3.6838417053222656,
-        [
-            "information",
-            "technology",
-            "measure"
         ]
     ],
     [
@@ -4688,8 +4695,36 @@
         3.8016247749328613,
         [
             "technology",
-            "scale",
-            "impact"
+            "use",
+            "rise"
+        ]
+    ],
+    [
+        1.4024189710617065,
+        3.6838417053222656,
+        [
+            "order",
+            "use",
+            "technology"
+        ]
+    ],
+    [
+        1.2891145944595337,
+        3.6838417053222656,
+        [
+            "information",
+            "measure",
+            "technology"
+        ]
+    ],
+    [
+        1.4024189710617065,
+        3.8016247749328613,
+        [
+            "way",
+            "order",
+            "use",
+            "technology"
         ]
     ],
     [
@@ -4697,46 +4732,46 @@
         4.861675262451172,
         [
             "world",
-            "knowledge",
-            "production"
+            "production",
+            "knowledge"
         ]
     ],
     [
         2.308854103088379,
         6.275075435638428,
         [
-            "paper",
-            "question",
-            "algorithm",
             "network",
-            "bias",
+            "question",
             "machine",
-            "statistician",
             "processing",
-            "datum",
-            "problem"
+            "algorithm",
+            "bias",
+            "statistician",
+            "problem",
+            "paper",
+            "datum"
         ]
     ],
     [
         2.195549488067627,
         4.743891716003418,
         [
-            "aspect",
-            "condition",
-            "paper",
-            "knowledge",
             "philosophy",
-            "case"
+            "aspect",
+            "knowledge",
+            "case",
+            "condition",
+            "paper"
         ]
     ],
     [
         2.082245349884033,
         4.743891716003418,
         [
-            "study",
             "impact",
+            "production",
             "role",
-            "production"
+            "study"
         ]
     ],
     [
@@ -4744,8 +4779,8 @@
         4.861675262451172,
         [
             "world",
-            "knowledge",
-            "production"
+            "production",
+            "knowledge"
         ]
     ],
     [
@@ -4765,54 +4800,40 @@
         ]
     ],
     [
-        1.0625057220458984,
-        4.390542030334473,
-        [
-            "dialogue",
-            "relationship",
-            "study",
-            "understanding",
-            "notion",
-            "point",
-            "paradigm",
-            "form"
-        ]
-    ],
-    [
         1.1758100986480713,
         4.508325099945068,
         [
-            "relationship",
-            "object",
-            "material",
-            "tool",
-            "idea",
             "resource",
-            "case",
-            "approach",
+            "object",
+            "tool",
             "practice",
-            "model"
+            "case",
+            "idea",
+            "material",
+            "model",
+            "approach",
+            "relationship"
         ]
     ],
     [
         1.1758100986480713,
         3.5660581588745117,
         [
-            "product",
-            "work",
             "beginning",
+            "technology",
             "word",
-            "technology"
+            "product",
+            "work"
         ]
     ],
     [
         1.1758100986480713,
         3.6838417053222656,
         [
+            "effect",
+            "action",
             "information",
             "moment",
-            "action",
-            "effect",
             "technology"
         ]
     ],
@@ -4820,9 +4841,13 @@
         1.2891145944595337,
         3.5660581588745117,
         [
-            "people",
+            "action",
+            "life",
             "technology",
-            "life"
+            "user",
+            "individual",
+            "people",
+            "time"
         ]
     ],
     [
@@ -4830,127 +4855,136 @@
         3.6838417053222656,
         [
             "information",
+            "measure",
+            "technology"
+        ]
+    ],
+    [
+        1.5157233476638794,
+        3.8016247749328613,
+        [
+            "form",
+            "order",
+            "norm",
             "technology",
-            "measure"
+            "paper"
         ]
     ],
     [
         1.4024189710617065,
-        4.037191390991211,
+        3.8016247749328613,
         [
             "way",
-            "user",
-            "question",
-            "process",
-            "answer",
-            "case"
+            "order",
+            "use",
+            "technology"
         ]
     ],
     [
-        1.2891145944595337,
+        1.4024189710617065,
         3.9194083213806152,
         [
-            "study",
+            "technology",
             "value",
+            "study",
             "paper",
-            "answer",
-            "technology"
+            "answer"
         ]
     ],
     [
         1.855636477470398,
         4.037191390991211,
         [
-            "sphere",
             "life",
-            "society",
-            "humanity",
             "technology",
-            "future"
+            "sphere",
+            "future",
+            "humanity",
+            "society"
         ]
     ],
     [
         1.9689408540725708,
         4.154974937438965,
         [
-            "paper",
             "life",
+            "platform",
             "discourse",
-            "power",
-            "platform"
+            "paper",
+            "power"
         ]
     ],
     [
         1.9689408540725708,
         4.037191390991211,
         [
-            "paper",
-            "climate",
-            "discourse",
-            "society",
-            "behaviour",
             "technology",
+            "paper",
+            "behaviour",
+            "future",
+            "discourse",
             "change",
-            "future"
+            "climate",
+            "society"
         ]
     ],
     [
         1.6290277242660522,
         2.152657985687256,
         [
-            "user",
-            "paper",
+            "form",
             "space",
-            "intention",
-            "case",
-            "artifact",
-            "designer",
             "technology",
-            "form"
+            "user",
+            "case",
+            "intention",
+            "designer",
+            "paper",
+            "artifact"
         ]
     ],
     [
         2.988680362701416,
         1.9170911312103271,
         [
-            "experience",
-            "relationship",
-            "human",
-            "field",
             "being",
+            "robot",
+            "activity",
+            "experience",
+            "field",
             "conclusion",
-            "robot",
-            "activity"
-        ]
-    ],
-    [
-        2.875375747680664,
-        1.9170911312103271,
-        [
-            "robot",
-            "emotion",
-            "machine"
+            "human",
+            "relationship"
         ]
     ],
     [
         2.875375747680664,
         1.7993078231811523,
         [
-            "relationship",
-            "human",
+            "robot",
             "meaning",
+            "human",
             "time",
-            "robot"
+            "relationship"
+        ]
+    ],
+    [
+        2.875375747680664,
+        1.9170911312103271,
+        [
+            "interaction",
+            "human",
+            "robot",
+            "machine"
         ]
     ],
     [
         0.38267943263053894,
         4.626108169555664,
         [
-            "way",
-            "development",
             "machine",
-            "role"
+            "meaning",
+            "technology"
         ]
     ],
     [
@@ -4958,17 +4992,25 @@
         4.626108169555664,
         [
             "system",
+            "technology",
             "value",
-            "intelligence",
-            "level",
-            "benefit",
             "machine",
+            "level",
             "possibility",
-            "technology"
+            "intelligence",
+            "benefit"
         ]
     ],
     [
-        1.1758100986480713,
+        1.4024189710617065,
+        4.037191390991211,
+        [
+            "scale",
+            "answer"
+        ]
+    ],
+    [
+        1.2891145944595337,
         3.9194083213806152,
         [
             "infrastructure",
@@ -4980,35 +5022,14 @@
         ]
     ],
     [
-        1.1758100986480713,
-        3.8016247749328613,
-        [
-            "system",
-            "study",
-            "paper",
-            "technology",
-            "data",
-            "risk"
-        ]
-    ],
-    [
-        1.2891145944595337,
-        3.8016247749328613,
-        [
-            "technology",
-            "scale",
-            "impact"
-        ]
-    ],
-    [
-        1.2891145944595337,
+        1.4024189710617065,
         3.9194083213806152,
         [
-            "study",
+            "technology",
             "value",
+            "study",
             "paper",
-            "answer",
-            "technology"
+            "answer"
         ]
     ],
     [
@@ -5016,33 +5037,33 @@
         2.152657985687256,
         [
             "robot",
-            "machine",
-            "interaction"
+            "robotic",
+            "machine"
         ]
     ],
     [
         -0.7503644227981567,
         2.859358072280884,
         [
+            "techno",
             "way",
-            "research",
             "condition",
-            "time",
-            "techno"
+            "research",
+            "time"
         ]
     ],
     [
         1.9689408540725708,
         4.037191390991211,
         [
-            "paper",
-            "climate",
-            "discourse",
-            "society",
-            "behaviour",
             "technology",
+            "paper",
+            "behaviour",
+            "future",
+            "discourse",
             "change",
-            "future"
+            "climate",
+            "society"
         ]
     ],
     [
@@ -5058,38 +5079,41 @@
         2.6487669944763184,
         4.508325099945068,
         [
-            "way",
-            "animal",
-            "study",
-            "paper",
-            "idea",
-            "narrative",
-            "theory",
-            "discourse",
             "posthumanism",
-            "imaginary"
-        ]
-    ],
-    [
-        0.38267943263053894,
-        6.275075435638428,
-        [
-            "experience",
-            "relationship",
-            "research",
-            "aspect",
-            "object",
-            "world",
-            "existence"
+            "study",
+            "way",
+            "idea",
+            "animal",
+            "imaginary",
+            "paper",
+            "discourse",
+            "theory",
+            "narrative"
         ]
     ],
     [
         0.38267943263053894,
         6.392858982086182,
         [
+            "concept",
             "user",
-            "field",
-            "design"
+            "aspect",
+            "phenomenon",
+            "development",
+            "product"
+        ]
+    ],
+    [
+        0.38267943263053894,
+        6.275075435638428,
+        [
+            "object",
+            "experience",
+            "existence",
+            "world",
+            "aspect",
+            "research",
+            "relationship"
         ]
     ],
     [
@@ -5103,20 +5127,32 @@
         1.6290277242660522,
         4.390542030334473,
         [
-            "way",
             "dynamic",
-            "world",
             "field",
-            "feature"
+            "world",
+            "feature",
+            "way"
+        ]
+    ],
+    [
+        1.855636477470398,
+        3.6838417053222656,
+        [
+            "technology",
+            "context",
+            "discourse",
+            "imaginary",
+            "paper",
+            "potential"
         ]
     ],
     [
         1.855636477470398,
         3.5660581588745117,
         [
-            "technology",
+            "theme",
             "imaginary",
-            "theme"
+            "technology"
         ]
     ]
 ]

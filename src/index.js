@@ -83,6 +83,12 @@ Promise.all([
         screenHeight: window.innerHeight,
         interaction: s.app.renderer.plugins.interaction
     }).drag().pinch().wheel().decelerate()
+        .clampZoom({
+            minWidth: 50, minHeight: 50,
+            maxWidth: window.innerWidth,
+            maxHeight: window.innerHeight
+        })
+        .clamp({ direction: 'all' })
 
     s.app.stage.addChild(s.viewport)
 
@@ -92,15 +98,18 @@ Promise.all([
     const extX = extent(data, d => d[0]), extY = extent(data, d => d[1])
 
     const shorterDimension = window.innerWidth > window.innerHeight ? window.innerHeight : window.innerWidth
-    
-    const scaleX = scaleLinear().domain([extX[0], extX[1]]).range([0, shorterDimension])
-    const scaleY = scaleLinear().domain([extY[0], extY[1]]).range([0, shorterDimension])
+
+    const margin = 100
+
+    const scaleX = scaleLinear().domain([extX[0], extX[1]]).range([margin, shorterDimension - margin])
+    const scaleY = scaleLinear().domain([extY[0], extY[1]]).range([margin, shorterDimension - margin])
 
     const marginTop = window.innerWidth > window.innerHeight ? 0 : (window.innerHeight - window.innerWidth) / 2
     const marginLeft = window.innerWidth < window.innerHeight ? 0 : (window.innerWidth - window.innerHeight) / 2
 
     data.forEach(d => { d[0] = marginLeft + scaleX(d[0]); d[1] = marginTop + scaleY(d[1]) })
     pairs.forEach(p => { p[0] = marginLeft + scaleX(p[0]); p[1] = marginTop + scaleY(p[1]) })
+
 
 
     // Transparency on zoom
@@ -132,6 +141,9 @@ Promise.all([
     // clusters()
     fps()
     search(data)
+
+    s.viewport.fit()
+    s.viewport.moveCenter(window.innerWidth / 2, window.innerHeight / 2)
 
     // Prevent pinch gesture in Chrome
 
