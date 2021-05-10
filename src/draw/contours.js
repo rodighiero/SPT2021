@@ -4,15 +4,15 @@ import { contourDensity, extent } from 'd3'
 const color = 0xFFFFFF
 const contourWidth = 1
 const cellSize = 1
-const bandwidth = 30
-const thresholds = 25
+const bandwidth = 20
+const thresholds = 10
 
 export default (data, width, height) => {
     
     const stage = new Graphics()
     stage.interactiveChildren = false
     stage.name = 'contours'
-    stage.alpha = .2
+    stage.alpha = 1
     s.viewport.addChild(stage)
 
     const density = contourDensity()

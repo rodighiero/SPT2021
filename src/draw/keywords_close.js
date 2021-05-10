@@ -8,7 +8,7 @@ export default (pairs) => {
     stage.interactiveChildren = false
     s.viewport.addChild(stage)
 
-    const lineHeight = 1.6
+    const lineHeight = 1.3
     const items = 3
 
     pairs.forEach(p => {
@@ -24,7 +24,7 @@ export default (pairs) => {
                 lemma,
                 {
                     fontName: 'Lato',
-                    fontSize: '1.2',
+                    fontSize: '1',
                     tint: 0xFFFFFF,
                     align: 'center',
                 })

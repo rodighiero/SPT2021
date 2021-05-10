@@ -60,7 +60,7 @@ Promise.all([
     const height = window.innerHeight
 
     let data = embedding.reduce((array, value, i) => {
-		array[i] = [...embedding[i], lemmas[i].length]
+		array[i] = [...embedding[i], lemmas[i].length, authors[i]]
         return array
     }, [])
 
@@ -134,7 +134,7 @@ Promise.all([
     // keywords_distant()
     // clusters()
     fps()
-    // search()
+    search(data)
 
     // Prevent pinch gesture in Chrome
 

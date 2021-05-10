@@ -1,26 +1,27 @@
 import { Point } from 'pixi.js'
 import autoComplete from '@tarekraafat/autocomplete.js'
 
-export default () => {
+export default (data) => {
 
     // Data
 
-    const data = s.nodes.reduce((array, { tfidf, name, x, y }) => {
+    const dataSearch = data.reduce((array, record) => {
         array.push({
-            token: `${Object.keys(tfidf)[0]} (${Object.values(tfidf)[0]})`,
-            name: name,
-            x: x, y: y,
+            name: record[3],
+            x: record[0], y: record[1],
         })
         return array
     }, [])
+
+    console.log(dataSearch)
 
     // The autoComplete.js Engine instance creator
 
     const autoCompletejs = new autoComplete({
 
         data: {
-            src: data,
-            key: ['token', 'name'],
+            src: dataSearch,
+            key: ['name'],
             cache: true
         },
         sort: (a, b) => {
@@ -44,7 +45,7 @@ export default () => {
             // Zooming from distant to close
 
             const zoomIn = () => s.viewport.animate({
-                scale: s.zoomMax,
+                scale: 10,
                 position: new Point(x, y),
                 time: 2000,
                 ease: 'easeInOutSine',
@@ -53,13 +54,13 @@ export default () => {
             // Zooming from close to close
 
             const zoomOutIn = () => s.viewport.animate({
-                scale: s.zoomMin,
+                scale: 1,
                 position: new Point((x + center.x) / 2, (y + center.y) / 2),
                 time: 2000,
                 ease: 'easeInOutSine',
                 callbackOnComplete: () => {
                     s.viewport.animate({
-                        scale: s.zoomMax,
+                        scale: 10,
                         position: new Point(x, y),
                         time: 2000,
                         ease: 'easeInOutSine',
