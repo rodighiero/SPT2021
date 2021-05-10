@@ -54,17 +54,16 @@ Promise.all([
 
 ]).then(([embedding, authors, lemmas, pairs, fontXML, fontPNG, backgroundImage]) => {
 
-    // Set variables
 
-    const width = window.innerWidth
-    const height = window.innerHeight
+    // Set data
 
     let data = embedding.reduce((array, value, i) => {
-		array[i] = [...embedding[i], lemmas[i].length, authors[i]]
+        array[i] = [...embedding[i], lemmas[i].length, authors[i]]
         return array
     }, [])
 
-    // Set App
+
+    // Set app
 
     s.app = new Application({
         antialias: true,
@@ -76,33 +75,33 @@ Promise.all([
 
     document.body.prepend(s.app.view)
 
+
     // Set viewport
 
     s.viewport = new Viewport({
-        screenWidth: width,
-        screenHeight: height,
+        screenWidth: window.innerWidth,
+        screenHeight: window.innerHeight,
         interaction: s.app.renderer.plugins.interaction
     }).drag().pinch().wheel().decelerate()
 
     s.app.stage.addChild(s.viewport)
 
-    // Set embedding's dimension
 
-    const extX = extent(data, d => d[0])
-    const extY = extent(data, d => d[1])
+    // Set dimensions
 
-    const scaleX = scaleLinear().domain([extX[0], extX[1]]).range([0, height])
-    const scaleY = scaleLinear().domain([extY[0], extY[1]]).range([0, height])
+    const extX = extent(data, d => d[0]), extY = extent(data, d => d[1])
 
-    data.forEach(d => {
-        d[0] = scaleX(d[0])
-        d[1] = scaleY(d[1])
-    })
+    const shorterDimension = window.innerWidth > window.innerHeight ? window.innerHeight : window.innerWidth
+    
+    const scaleX = scaleLinear().domain([extX[0], extX[1]]).range([0, shorterDimension])
+    const scaleY = scaleLinear().domain([extY[0], extY[1]]).range([0, shorterDimension])
 
-    pairs.forEach(p => {
-        p[0] = scaleX(p[0])
-        p[1] = scaleY(p[1])
-    })
+    const marginTop = window.innerWidth > window.innerHeight ? 0 : (window.innerHeight - window.innerWidth) / 2
+    const marginLeft = window.innerWidth < window.innerHeight ? 0 : (window.innerWidth - window.innerHeight) / 2
+
+    data.forEach(d => { d[0] = marginLeft + scaleX(d[0]); d[1] = marginTop + scaleY(d[1]) })
+    pairs.forEach(p => { p[0] = marginLeft + scaleX(p[0]); p[1] = marginTop + scaleY(p[1]) })
+
 
     // Transparency on zoom
 
@@ -117,19 +116,17 @@ Promise.all([
     //     // e.viewport.children.find(child => child.name == 'keywords_distant').alpha = zoomOut(scale)
     // })
 
+
     // Font loader
 
     BitmapFont.install(fontXML, Texture.from(fontPNG))
 
-    /**
-     * Rendering
-     */
 
-    console.table(data)
+    // Rendering
 
-    background(backgroundImage, width, height)
-    contours(data, width, height)
-    nodes(data, authors)
+    background(backgroundImage)
+    contours(data)
+    nodes(data)
     keywords_close(pairs)
     // keywords_distant()
     // clusters()
@@ -143,7 +140,7 @@ Promise.all([
     }
 
     // Prevent wheel interference
-    
+
     window.addEventListener('wheel', e => {
         e.preventDefault()
     }, { passive: false })

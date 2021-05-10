@@ -17,14 +17,14 @@ const color = {
 }
 
 
-export default (embedding, authors) => {
+export default (data) => {
 
     const stage = new Graphics()
     stage.alpha = 1
     stage.name = 'nodes'
     s.viewport.addChild(stage)
 
-    embedding.forEach((node, index) => {
+    data.forEach((node, index) => {
 
         // Circle
 
@@ -43,7 +43,7 @@ export default (embedding, authors) => {
         // Label
 
         const scale = .2
-        const [nA, nB] = splitInTwo(authors[index])
+        const [nA, nB] = splitInTwo(data[index][3])
 
         node.text = new BitmapText(
             `${nA}\n${nB}`,

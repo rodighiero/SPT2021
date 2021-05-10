@@ -19,7 +19,7 @@ export default (data, width, height) => {
         .x(d => d[0])
         .y(d => d[1])
         .weight(d => d[2])
-        .size([width, height])
+        .size([window.innerWidth, window.innerHeight])
         .cellSize(cellSize)
         .bandwidth(bandwidth)
         .thresholds(thresholds)

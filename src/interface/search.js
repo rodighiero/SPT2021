@@ -13,8 +13,6 @@ export default (data) => {
         return array
     }, [])
 
-    console.log(dataSearch)
-
     // The autoComplete.js Engine instance creator
 
     const autoCompletejs = new autoComplete({
@@ -32,8 +30,6 @@ export default (data) => {
         placeHolder: 'Search',
         maxResults: 20,
         onSelection: feedback => {
-
-            console.log(feedback)
 
             const key = feedback.selection.key
             const node = feedback.selection.value
