@@ -3,12 +3,12 @@ import { BitmapText, Graphics } from 'pixi.js'
 export default (pairs) => {
 
     const stage = new Graphics()
-    // stage.alpha = 0
+    stage.alpha = 0
     stage.name = 'keywords_close'
     stage.interactiveChildren = false
     s.viewport.addChild(stage)
 
-    const lineHeight = 1.3
+    const lineHeight = .8
     const items = 3
 
     pairs.forEach(p => {
@@ -24,7 +24,7 @@ export default (pairs) => {
                 lemma,
                 {
                     fontName: 'Lato',
-                    fontSize: '1',
+                    fontSize: '.7',
                     tint: 0xFFFFFF,
                     align: 'center',
                 })

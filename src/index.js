@@ -114,16 +114,16 @@ Promise.all([
 
     // Transparency on zoom
 
-    // const zoomOut = scaleLinear().domain([s.zoomMin, 2]).range([1, 0]) // Visible when zooming out
-    // const zoomIn = scaleLinear().domain([s.zoomMin, 2]).range([0, 1]) // Visible when zooming in
+    const zoomOut = scaleLinear().domain([6, 1]).range([0, 1]) // Visible when zooming out
+    const zoomIn = scaleLinear().domain([6, 1]).range([1, 0]) // Visible when zooming in
 
-    // s.viewport.on('zoomed', e => {
-    //     const scale = e.viewport.lastViewport.scaleX
-    //     // e.viewport.children.find(child => child.name == 'contours').alpha = zoomOut(scale)
-    //     // e.viewport.children.find(child => child.name == 'nodes').alpha = zoomIn(scale)
-    //     // e.viewport.children.find(child => child.name == 'keywords_close').alpha = zoomIn(scale)
-    //     // e.viewport.children.find(child => child.name == 'keywords_distant').alpha = zoomOut(scale)
-    // })
+    s.viewport.on('zoomed', e => {
+        const scale = e.viewport.lastViewport.scaleX
+        e.viewport.children.find(child => child.name == 'contours').alpha = zoomOut(scale)
+        e.viewport.children.find(child => child.name == 'nodes').alpha = zoomIn(scale)
+        e.viewport.children.find(child => child.name == 'keywords_close').alpha = zoomIn(scale)
+        // e.viewport.children.find(child => child.name == 'keywords_distant').alpha = zoomOut(scale)
+    })
 
 
     // Font loader
