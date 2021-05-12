@@ -12,7 +12,7 @@ import { Viewport } from 'pixi-viewport'
 // Assets
 
 import background from './draw/background'
-import clusters from './draw/clusters.js'
+import drawClusters from './draw/clusters.js'
 import contours from './draw/contours.js'
 import keywords_close from './draw/keywords_close.js'
 import keywords_distant from './draw/keywords_distant.js'
@@ -27,8 +27,9 @@ import fontPNG from './assets/Lato.png'
 
 import backgroundImage from './assets/background.png'
 
-import embedding from './data/embedding.json'
 import authors from './data/authors.json'
+import clusters from './data/clusters.json'
+import embedding from './data/embedding.json'
 import lemmas from './data/lemmas.json'
 import pairs from './data/pairs.json'
 
@@ -47,12 +48,13 @@ Promise.all([
     json(authors),
     json(lemmas),
     json(pairs),
+    json(clusters),
     xml(fontXML),
     image(fontPNG),
     image(backgroundImage),
 
 
-]).then(([embedding, authors, lemmas, pairs, fontXML, fontPNG, backgroundImage]) => {
+]).then(([embedding, authors, lemmas, pairs, clusters, fontXML, fontPNG, backgroundImage]) => {
 
 
     // Set data
@@ -138,7 +140,7 @@ Promise.all([
     nodes(data)
     keywords_close(pairs)
     // keywords_distant()
-    // clusters()
+    drawClusters(data, clusters)
     fps()
     search(data)
 

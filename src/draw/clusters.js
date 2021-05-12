@@ -2,22 +2,31 @@ import { Graphics } from 'pixi.js'
 import { group, polygonHull } from 'd3'
 
 
-export default () => {
+export default (data, clusters) => {
 
+    
     const stage = new Graphics()
     stage.interactiveChildren = false
     stage.name = 'clusters'
     s.viewport.addChild(stage)
+    
+    const groups = clusters.reduce((object, element, index, a) => {
+        if (object[element])
+            object[element].push(data[index])
+        else
+        object[element] = [[data[index][0], data[index][1]]]
+        return object
+    }, {})
 
-    const clusters = group(s.nodes, n => n.cluster)
+    // console.log(groups)
 
-    const width = 3
-    const color = 0x999999
+    const width = 1
+    const color = 0xFFFFFF
 
-    clusters.forEach(cluster => {
+    Object.values(groups).forEach(group => {
 
-        const points = cluster.map(node => [node.x, node.y])
-        const polygon = polygonHull(points)
+        // const points = cluster.map(node => [node.x, node.y])
+        const polygon = polygonHull(group)
 
         stage.lineStyle(width, color)
 
