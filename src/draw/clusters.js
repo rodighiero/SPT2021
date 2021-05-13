@@ -2,7 +2,7 @@ import { Graphics, Loader, Point, Sprite } from 'pixi.js'
 import { extent, polygonHull } from 'd3'
 
 function importAll(r) {
-    return r.keys().map(r);
+    return r.keys().map(r)
 }
 const images = importAll(require.context('../data/wordclouds', false, /\.(png|jpe?g|svg)$/))
 
@@ -26,6 +26,8 @@ export default (data, clusters) => {
 
     Object.values(clusters).forEach((cluster, index) => {
 
+        // console.log(index, cluster)
+
         const coordinates = cluster.map(index => [data[index][0], data[index][1]])
 
         const polygon = polygonHull(coordinates)
@@ -37,7 +39,7 @@ export default (data, clusters) => {
         const extX = extent(coordinates, d => d[0]), extY = extent(coordinates, d => d[1])
         const width = extX[1] - extX[0], height = extY[1] - extY[0]
 
-        loader.load(function (loader, resources) {
+        loader.load((loader, resources) => {
             const texture = resources['index_' + index].texture
             const wc = new Sprite(texture)
             wc.x = extX[0]
