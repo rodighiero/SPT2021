@@ -1,6 +1,10 @@
-import { Graphics } from 'pixi.js'
-import { polygonHull } from 'd3'
+import { Graphics, Loader, Point, Sprite } from 'pixi.js'
+import { extent, polygonHull } from 'd3'
 
+function importAll(r) {
+    return r.keys().map(r);
+}
+const images = importAll(require.context('../data/wordclouds', false, /\.(png|jpe?g|svg)$/))
 
 export default (data, clusters) => {
 
@@ -13,24 +17,35 @@ export default (data, clusters) => {
     const width = 1
     const color = 0xFFFFFF
 
-    Object.values(clusters).forEach(cluster => {
+    const loader = Loader.shared
 
-        cluster = cluster.map(index => [data[index][0], data[index][1]])
+    clusters.forEach((cluster, index) => {
+        loader.add('index_' + index, images[index].default)
+    })
 
-        const polygon = polygonHull(cluster)
 
+    Object.values(clusters).forEach((cluster, index) => {
+
+        const coordinates = cluster.map(index => [data[index][0], data[index][1]])
+
+        const polygon = polygonHull(coordinates)
         stage.lineStyle(width, color)
-        stage.beginFill(color, 0.1)
+        stage.beginFill(color, 1)
+        polygon.forEach((p, i) => (i == 0) ? stage.moveTo(p[0], p[1]) : stage.lineTo(p[0], p[1]))
+        stage.closePath()
 
-        if (polygon) {
-            polygon.forEach((point, i) => {
-                if (i == 0)
-                    stage.moveTo(point[0], point[1])
-                else
-                    stage.lineTo(point[0], point[1])
-            })
-            stage.closePath()
-        }
+        const extX = extent(coordinates, d => d[0]), extY = extent(coordinates, d => d[1])
+        const width = extX[1] - extX[0], height = extY[1] - extY[0]
+
+        loader.load(function (loader, resources) {
+            const texture = resources['index_' + index].texture
+            const wc = new Sprite(texture)
+            wc.x = extX[0]
+            wc.y = extY[0]
+            wc.width = width
+            wc.height = height
+            stage.addChild(wc)
+        })
 
     })
 
