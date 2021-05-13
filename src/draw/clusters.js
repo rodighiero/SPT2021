@@ -27,11 +27,11 @@ export default (data, clusters) => {
 
         const coordinates = cluster.map(index => [data[index][0], data[index][1]])
 
-        const polygon = polygonHull(coordinates)
-        stage.lineStyle(.2, 0xFFFFFF)
-        stage.beginFill(0xFFFFFF, .1)
-        polygon.forEach((p, i) => (i == 0) ? stage.moveTo(p[0], p[1]) : stage.lineTo(p[0], p[1]))
-        stage.closePath()
+        // const polygon = polygonHull(coordinates)
+        // stage.lineStyle(.2, 0xFFFFFF)
+        // stage.beginFill(0xFFFFFF, .1)
+        // polygon.forEach((p, i) => (i == 0) ? stage.moveTo(p[0], p[1]) : stage.lineTo(p[0], p[1]))
+        // stage.closePath()
 
         const extX = extent(coordinates, d => d[0]), extY = extent(coordinates, d => d[1])
         const width = extX[1] - extX[0], height = extY[1] - extY[0]
