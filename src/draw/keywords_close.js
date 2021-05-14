@@ -13,7 +13,7 @@ export default (pairs) => {
 
     pairs.forEach(p => {
 
-        const lemmas = p[2]
+        const lemmas = p[2].slice(0,3)
         const offsetY = lineHeight * (lemmas.length - 1) / 2
 
         const x = p[0]

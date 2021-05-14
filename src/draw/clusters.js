@@ -33,7 +33,6 @@ export default (data, clusters) => {
         // polygon.forEach((p, i) => (i == 0) ? stage.moveTo(p[0], p[1]) : stage.lineTo(p[0], p[1]))
         // stage.closePath()
         // const center = polygonCentroid(polygon)
-        // console.log()
 
         const extX = extent(coordinates, d => d[0]), extY = extent(coordinates, d => d[1])
         const width = extX[1] - extX[0], height = extY[1] - extY[0]
@@ -41,7 +40,7 @@ export default (data, clusters) => {
         loader.load((loader, resources) => {
             const texture = resources['index_' + index].texture
             const wc = new Sprite(texture)
-            const scale = 1.5
+            const scale = 2
             wc.width = width * scale
             wc.height = height * scale
             wc.x = extX[0] - (width * scale - width) / 2
