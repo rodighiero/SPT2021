@@ -1,5 +1,5 @@
 import { Graphics, Loader, Point, Sprite } from 'pixi.js'
-import { extent, polygonHull } from 'd3'
+import { extent, polygonHull, polygonCentroid } from 'd3'
 
 function importAll(r) {
     return r.keys().map(r)
@@ -32,6 +32,8 @@ export default (data, clusters) => {
         // stage.beginFill(0xFFFFFF, .1)
         // polygon.forEach((p, i) => (i == 0) ? stage.moveTo(p[0], p[1]) : stage.lineTo(p[0], p[1]))
         // stage.closePath()
+        // const center = polygonCentroid(polygon)
+        // console.log()
 
         const extX = extent(coordinates, d => d[0]), extY = extent(coordinates, d => d[1])
         const width = extX[1] - extX[0], height = extY[1] - extY[0]
@@ -39,10 +41,11 @@ export default (data, clusters) => {
         loader.load((loader, resources) => {
             const texture = resources['index_' + index].texture
             const wc = new Sprite(texture)
-            wc.x = extX[0]
-            wc.y = extY[0]
-            wc.width = width
-            wc.height = height
+            const scale = 1.5
+            wc.width = width * scale
+            wc.height = height * scale
+            wc.x = extX[0] - (width * scale - width) / 2
+            wc.y = extY[0] - (height * scale - height) / 2
             stage.addChild(wc)
         })
 
