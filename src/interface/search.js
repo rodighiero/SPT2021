@@ -43,7 +43,7 @@ export default (data) => {
             const zoomIn = () => s.viewport.animate({
                 scale: 10,
                 position: new Point(x, y),
-                time: 2000,
+                time: 1000,
                 ease: 'easeInOutSine',
             })
 
@@ -52,19 +52,19 @@ export default (data) => {
             const zoomOutIn = () => s.viewport.animate({
                 scale: 1,
                 position: new Point((x + center.x) / 2, (y + center.y) / 2),
-                time: 2000,
+                time: 1000,
                 ease: 'easeInOutSine',
                 callbackOnComplete: () => {
                     s.viewport.animate({
                         scale: 10,
                         position: new Point(x, y),
-                        time: 2000,
+                        time: 1000,
                         ease: 'easeInOutSine',
                     })
                 }
             })
 
-            if (s.viewport.scale.x < 1)
+            if (s.viewport.scale.x < 10)
                 zoomIn()
             else
                 zoomOutIn()
