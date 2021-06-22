@@ -7,11 +7,12 @@ export default (data) => {
 
     const dataSearch = data.reduce((array, record) => {
         array.push({
-            name: record[3],
-            x: record[0], y: record[1],
+            name: record[3], x: record[0], y: record[1],
         })
         return array
     }, [])
+
+    console.log(dataSearch)
 
     // The autoComplete.js Engine instance creator
 
@@ -30,6 +31,8 @@ export default (data) => {
         placeHolder: 'Search',
         maxResults: 20,
         onSelection: feedback => {
+
+            console.log(feedback)
 
             const key = feedback.selection.key
             const node = feedback.selection.value
